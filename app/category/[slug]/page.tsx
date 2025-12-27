@@ -1,0 +1,86 @@
+import { Metadata } from 'next';
+import { notFound } from 'next/navigation';
+import BlogCard from '@/components/blog/BlogCard';
+import Pagination from '@/components/ui/Pagination';
+import { getPostsByCategory, getAllPosts } from '@/lib/posts';
+
+interface CategoryPageProps {
+  params: {
+    slug: string;
+  };
+  searchParams: { page?: string };
+}
+
+const POSTS_PER_PAGE = 9;
+
+export async function generateStaticParams() {
+  const posts = getAllPosts();
+  const categories = [...new Set(posts.map((post) => post.category))];
+  
+  return categories.map((category) => ({
+    slug: category.toLowerCase().replace(/\s+/g, '-'),
+  }));
+}
+
+export async function generateMetadata({ params }: CategoryPageProps): Promise<Metadata> {
+  const categoryName = params.slug
+    .split('-')
+    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(' ');
+
+  return {
+    title: `${categoryName} Articles`,
+    description: `Explore our collection of articles about ${categoryName.toLowerCase()} in Sri Lanka`,
+  };
+}
+
+export default function CategoryPage({ params, searchParams }: CategoryPageProps) {
+  const allPosts = getPostsByCategory(params.slug);
+
+  if (allPosts.length === 0) {
+    notFound();
+  }
+
+  const currentPage = parseInt(searchParams.page || '1', 10);
+  const totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE);
+  
+  const startIndex = (currentPage - 1) * POSTS_PER_PAGE;
+  const endIndex = startIndex + POSTS_PER_PAGE;
+  const posts = allPosts.slice(startIndex, endIndex);
+
+  const categoryName = params.slug
+    .split('-')
+    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(' ');
+
+  return (
+    <div className="pt-24 pb-20 bg-neutral-50">
+      {/* Header */}
+      <div className="bg-gradient-to-br from-primary-600 to-accent-600 py-20 mb-12">
+        <div className="container-custom text-center text-white">
+          <h1 className="text-5xl md:text-6xl font-display font-bold mb-4">
+            {categoryName}
+          </h1>
+          <p className="text-xl md:text-2xl max-w-2xl mx-auto">
+            {posts.length} {posts.length === 1 ? 'article' : 'articles'} in this category
+          </p>
+        </div>
+      </div>
+
+      <div className="container-custom">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {posts.map((post) => (
+            <BlogCard key={post.slug} post={post} />
+          ))}
+        </div>
+
+        {/* Pagination */}
+        <Pagination 
+          currentPage={currentPage} 
+          totalPages={totalPages} 
+          basePath={`/category/${params.slug}`} 
+        />
+      </div>
+    </div>
+  );
+}
