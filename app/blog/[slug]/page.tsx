@@ -1,14 +1,14 @@
-import { Metadata } from 'next';
-import { notFound } from 'next/navigation';
-import Image from 'next/image';
-import Link from 'next/link';
-import { getPostBySlug, getAllPosts, getRecentPosts } from '@/lib/posts';
-import { markdownToHtml } from '@/lib/markdown';
-import ViewCounter from '@/components/blog/ViewCounter';
-import NewsletterForm from '@/components/ui/NewsletterForm';
-import ImageGallery from '@/components/blog/ImageGallery';
-import { FiCalendar, FiClock, FiUser, FiTag } from 'react-icons/fi';
-import { FaFacebookF, FaTwitter, FaLinkedinIn, FaWhatsapp } from 'react-icons/fa';
+import { Metadata } from "next";
+import { notFound } from "next/navigation";
+import Image from "next/image";
+import Link from "next/link";
+import { getPostBySlug, getAllPosts, getRecentPosts } from "@/lib/posts";
+import { markdownToHtml } from "@/lib/markdown";
+import ViewCounter from "@/components/blog/ViewCounter";
+import NewsletterForm from "@/components/ui/NewsletterForm";
+import ImageGallery from "@/components/blog/ImageGallery";
+import { FiCalendar, FiClock, FiUser, FiTag } from "react-icons/fi";
+import { FaFacebookF, FaLinkedinIn, FaWhatsapp } from "react-icons/fa";
 
 interface BlogPostPageProps {
   params: {
@@ -23,12 +23,14 @@ export async function generateStaticParams() {
   }));
 }
 
-export async function generateMetadata({ params }: BlogPostPageProps): Promise<Metadata> {
+export async function generateMetadata({
+  params,
+}: BlogPostPageProps): Promise<Metadata> {
   const post = getPostBySlug(params.slug);
 
   if (!post) {
     return {
-      title: 'Post Not Found',
+      title: "Post Not Found",
     };
   }
 
@@ -39,7 +41,7 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
       title: post.title,
       description: post.description,
       images: [post.image],
-      type: 'article',
+      type: "article",
     },
   };
 }
@@ -72,7 +74,9 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
             <div className="max-w-4xl">
               <div className="mb-4">
                 <Link
-                  href={`/category/${post.category.toLowerCase().replace(/\s+/g, '-')}`}
+                  href={`/category/${post.category
+                    .toLowerCase()
+                    .replace(/\s+/g, "-")}`}
                   className="inline-block bg-primary-600 text-white px-4 py-1 rounded-full text-sm font-medium hover:bg-primary-700 transition-colors"
                 >
                   {post.category}
@@ -89,10 +93,10 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
                 <div className="flex items-center space-x-2">
                   <FiCalendar size={18} />
                   <span>
-                    {new Date(post.date).toLocaleDateString('en-US', {
-                      month: 'long',
-                      day: 'numeric',
-                      year: 'numeric',
+                    {new Date(post.date).toLocaleDateString("en-US", {
+                      month: "long",
+                      day: "numeric",
+                      year: "numeric",
                     })}
                   </span>
                 </div>
@@ -147,14 +151,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
                 >
                   <FaFacebookF size={20} />
                 </a>
-                <a
-                  href={`https://twitter.com/intent/tweet?url=${shareUrl}&text=${post.title}`}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-neutral-600 hover:text-blue-400 transition-colors"
-                >
-                  <FaTwitter size={20} />
-                </a>
+
                 <a
                   href={`https://www.linkedin.com/shareArticle?mini=true&url=${shareUrl}`}
                   target="_blank"

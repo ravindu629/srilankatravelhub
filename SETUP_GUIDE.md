@@ -1,6 +1,7 @@
 # 🚀 Complete Setup & Deployment Guide
 
 ## Table of Contents
+
 1. [Local Development Setup](#local-development-setup)
 2. [Adding Google AdSense](#adding-google-adsense)
 3. [SEO Configuration](#seo-configuration)
@@ -61,6 +62,7 @@ Write your amazing content...
 ### Step 2: Get Your Publisher ID
 
 After approval:
+
 1. Log into AdSense dashboard
 2. Navigate to "Account" → "Account Information"
 3. Copy your Publisher ID (format: `ca-pub-XXXXXXXXXXXXXXXXX`)
@@ -79,13 +81,15 @@ data-ad-client="ca-pub-1234567890123456"
 **Update AdSense Script** (`components/ui/AdSense.tsx`):
 
 ```typescript
-src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR-ACTUAL-ID"
+src =
+  "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR-ACTUAL-ID";
 ```
 
 ### Step 4: Create Ad Units
 
 1. In AdSense dashboard, go to "Ads" → "By ad unit"
 2. Create these ad units:
+
    - **Display Ad (Homepage)**: Responsive
    - **Display Ad (Article Top)**: Responsive
    - **Display Ad (Article Inline)**: In-article
@@ -128,15 +132,14 @@ Edit `lib/config.ts`:
 
 ```typescript
 export const siteConfig = {
-  name: 'Explore Sri Lanka', // Your site name
-  description: 'Your description here',
-  url: 'https://yourdomain.com', // Your actual domain
-  ogImage: 'https://yourdomain.com/og-image.jpg',
+  name: "Explore Sri Lanka", // Your site name
+  description: "Your description here",
+  url: "https://yourdomain.com", // Your actual domain
+  ogImage: "https://yourdomain.com/og-image.jpg",
   links: {
-    twitter: 'https://twitter.com/yourhandle',
-    facebook: 'https://facebook.com/yourpage',
-    instagram: 'https://instagram.com/yourhandle',
-    youtube: 'https://youtube.com/@yourchannel',
+    facebook: "https://www.facebook.com/profile.php?id=61585913333335",
+    instagram: "https://www.instagram.com/srilankatravelhub/",
+    youtube: "https://www.youtube.com/@SriLankaTravelHub",
   },
   // ... rest of config
 };
@@ -158,7 +161,7 @@ export const siteConfig = {
 export const metadata: Metadata = {
   // ... existing metadata
   verification: {
-    google: 'your-verification-code-here',
+    google: "your-verification-code-here",
   },
 };
 ```
@@ -168,24 +171,24 @@ export const metadata: Metadata = {
 Create `app/sitemap.ts`:
 
 ```typescript
-import { getAllPosts } from '@/lib/posts';
+import { getAllPosts } from "@/lib/posts";
 
 export default function sitemap() {
-  const baseUrl = 'https://yourdomain.com';
+  const baseUrl = "https://yourdomain.com";
   const posts = getAllPosts();
 
   const postUrls = posts.map((post) => ({
     url: `${baseUrl}/blog/${post.slug}`,
     lastModified: new Date(post.date),
-    changeFrequency: 'monthly' as const,
+    changeFrequency: "monthly" as const,
     priority: 0.8,
   }));
 
-  const routes = ['', '/blog', '/about', '/contact'].map((route) => ({
+  const routes = ["", "/blog", "/about", "/contact"].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),
-    changeFrequency: 'weekly' as const,
-    priority: route === '' ? 1 : 0.9,
+    changeFrequency: "weekly" as const,
+    priority: route === "" ? 1 : 0.9,
   }));
 
   return [...routes, ...postUrls];
@@ -193,6 +196,7 @@ export default function sitemap() {
 ```
 
 After deployment, submit your sitemap:
+
 - URL: `https://yourdomain.com/sitemap.xml`
 - Submit in Google Search Console → Sitemaps
 
@@ -204,11 +208,11 @@ Create `app/robots.ts`:
 export default function robots() {
   return {
     rules: {
-      userAgent: '*',
-      allow: '/',
-      disallow: '/private/',
+      userAgent: "*",
+      allow: "/",
+      disallow: "/private/",
     },
-    sitemap: 'https://yourdomain.com/sitemap.xml',
+    sitemap: "https://yourdomain.com/sitemap.xml",
   };
 }
 ```
@@ -247,6 +251,7 @@ Push to GitHub, GitLab, or Bitbucket.
 **Step 4: Environment Variables** (if needed)
 
 In Vercel dashboard:
+
 1. Go to "Settings" → "Environment Variables"
 2. Add any required variables
 3. Redeploy
@@ -341,7 +346,6 @@ server {
 - [ ] robots.txt accessible
 - [ ] Meta descriptions on all pages
 - [ ] Open Graph tags working (test on [opengraph.xyz](https://opengraph.xyz))
-- [ ] Twitter cards functioning
 - [ ] Google Analytics added (optional)
 
 ### AdSense Setup (Week 1-2)
@@ -385,6 +389,7 @@ server {
 ### Issue: Ads Not Showing
 
 **Solutions:**
+
 1. Wait 24-48 hours after deployment
 2. Check AdSense approval status
 3. Verify publisher ID is correct
@@ -394,6 +399,7 @@ server {
 ### Issue: Poor SEO Performance
 
 **Solutions:**
+
 1. Add more content (aim for 500+ words per post)
 2. Improve meta descriptions
 3. Add alt text to all images
@@ -403,6 +409,7 @@ server {
 ### Issue: Slow Loading
 
 **Solutions:**
+
 1. Optimize images (use WebP format)
 2. Enable image caching
 3. Use CDN (Vercel includes this)
@@ -412,6 +419,7 @@ server {
 ### Issue: Build Errors
 
 **Solutions:**
+
 1. Delete `node_modules` and `.next` folders
 2. Run `npm install` again
 3. Check for TypeScript errors
@@ -423,15 +431,18 @@ server {
 ## Maintenance Schedule
 
 ### Daily
+
 - Monitor site uptime
 - Check for errors in console
 
 ### Weekly
+
 - Publish new blog posts
 - Respond to comments/messages
 - Check analytics
 
 ### Monthly
+
 - Review SEO performance
 - Update outdated content
 - Check AdSense earnings

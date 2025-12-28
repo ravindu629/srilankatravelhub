@@ -25,20 +25,20 @@ Visit: `http://localhost:3000` 🎉
 
 ```typescript
 export const siteConfig = {
-  name: 'Your Blog Name',          // ← Change this
-  description: 'Your description',  // ← Change this
-  url: 'https://yourdomain.com',   // ← Your domain
+  name: "Your Blog Name", // ← Change this
+  description: "Your description", // ← Change this
+  url: "https://yourdomain.com", // ← Your domain
   // Update social links
   links: {
-    twitter: 'https://twitter.com/yourhandle',
-    facebook: 'https://facebook.com/yourpage',
-    instagram: 'https://instagram.com/yourhandle',
-    youtube: 'https://youtube.com/@yourchannel',
+    facebook: "https://www.facebook.com/profile.php?id=61585913333335",
+    instagram: "https://www.instagram.com/srilankatravelhub/",
+    youtube: "https://www.youtube.com/@SriLankaTravelHub",
   },
 };
 ```
 
 **Update Contact Info** - Edit `components/layout/Footer.tsx`:
+
 - Find contact information section
 - Update address, email, phone
 
@@ -114,6 +114,7 @@ git push -u origin main
 ```
 
 Then:
+
 1. Go to [vercel.com](https://vercel.com)
 2. Click "Import Project"
 3. Select your repository
@@ -132,7 +133,7 @@ Your site is live in ~2 minutes! 🌟
 2. **Get approved**: Submit your site (takes 1-2 weeks)
 
 3. **Add your ID**: Once approved, edit `components/ui/AdSense.tsx`
-   
+
    Replace `ca-pub-XXXXXXXXXXXXXXXXX` with your actual publisher ID
 
 4. **Wait**: Ads appear automatically within 24-48 hours
@@ -142,6 +143,7 @@ Your site is live in ~2 minutes! 🌟
 ## 📊 What You Get
 
 ### Homepage
+
 - ✅ Hero section with slideshow
 - ✅ Featured posts
 - ✅ Category cards
@@ -150,6 +152,7 @@ Your site is live in ~2 minutes! 🌟
 - ✅ About section
 
 ### Blog Features
+
 - ✅ Blog listing page
 - ✅ Individual post pages with SEO
 - ✅ Category pages
@@ -159,14 +162,15 @@ Your site is live in ~2 minutes! 🌟
 - ✅ AdSense ad placements
 
 ### Pages
+
 - ✅ About page
 - ✅ Contact page with form
 - ✅ Category pages
 
 ### Built-in SEO
+
 - ✅ Meta tags
 - ✅ Open Graph
-- ✅ Twitter Cards
 - ✅ Automatic sitemap
 - ✅ robots.txt
 
@@ -194,9 +198,9 @@ colors: {
 Edit `app/layout.tsx`:
 
 ```typescript
-import { YourFont, AnotherFont } from 'next/font/google';
+import { YourFont, AnotherFont } from "next/font/google";
 
-const yourFont = YourFont({ subsets: ['latin'] });
+const yourFont = YourFont({ subsets: ["latin"] });
 ```
 
 ### Add New Page
@@ -247,16 +251,19 @@ A: Run `npm install` again, check Node.js version (need 18+)
 ## 📈 Success Metrics
 
 ### Week 1
+
 - [ ] 10+ blog posts published
 - [ ] Site live on custom domain
 - [ ] Submitted to Google Search Console
 
 ### Month 1
+
 - [ ] 25+ blog posts
 - [ ] 1000+ monthly visitors (realistic goal)
 - [ ] AdSense approved and running
 
 ### Month 3
+
 - [ ] 50+ blog posts
 - [ ] 5000+ monthly visitors
 - [ ] First AdSense payment ($100+)
@@ -269,5 +276,5 @@ Happy blogging! 🎉
 
 ---
 
-*Need the detailed guide? Check [SETUP_GUIDE.md](SETUP_GUIDE.md)*
-*Have questions? Read the full [README.md](README.md)*
+_Need the detailed guide? Check [SETUP_GUIDE.md](SETUP_GUIDE.md)_
+_Have questions? Read the full [README.md](README.md)_

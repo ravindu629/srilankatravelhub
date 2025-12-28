@@ -5,6 +5,7 @@ A modern, SEO-optimized travel blog built with Next.js 14, TypeScript, and Tailw
 ## ✨ Features
 
 ### Core Features
+
 - 🎨 **Modern Design** - Unique, eye-catching design with smooth animations
 - 📱 **Fully Responsive** - Perfect on all devices from mobile to desktop
 - ⚡ **Performance Optimized** - Built with Next.js 14 App Router for blazing fast performance
@@ -17,6 +18,7 @@ A modern, SEO-optimized travel blog built with Next.js 14, TypeScript, and Tailw
 - 📊 **Reading Time** - Automatic reading time calculation
 
 ### Technical Features
+
 - **Next.js 14** with App Router
 - **TypeScript** for type safety
 - **Tailwind CSS** for styling
@@ -80,22 +82,25 @@ srilanka-travel-blog/
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js 18+ and npm
 
 ### Installation
 
 1. **Install dependencies:**
+
 ```bash
 npm install
 ```
 
 2. **Run the development server:**
+
 ```bash
 npm run dev
 ```
 
 3. **Open your browser:**
-Navigate to [http://localhost:3000](http://localhost:3000)
+   Navigate to [http://localhost:3000](http://localhost:3000)
 
 ### Building for Production
 
@@ -144,9 +149,9 @@ Edit `lib/config.ts` to update site information:
 
 ```typescript
 export const siteConfig = {
-  name: 'Your Site Name',
-  description: 'Your site description',
-  url: 'https://yoursite.com',
+  name: "Your Site Name",
+  description: "Your site description",
+  url: "https://yoursite.com",
   // ... other settings
 };
 ```
@@ -175,6 +180,7 @@ The site uses Google Fonts (Playfair Display and Lora). Change fonts in `app/lay
 ### Setup AdSense
 
 1. **Get your AdSense Publisher ID:**
+
    - Sign up at [Google AdSense](https://www.google.com/adsense)
    - Get your publisher ID (ca-pub-XXXXXXXXXXXXXXXXX)
 
@@ -203,7 +209,7 @@ Update ad slot IDs in `components/ui/AdSense.tsx`:
 ### Ad Placements
 
 - **Homepage**: `<HomePageAd />` - Between sections
-- **Blog Posts**: 
+- **Blog Posts**:
   - `<ArticleTopAd />` - Before content
   - `<ArticleInlineAd />` - Middle of content
 - **Sidebar**: `<SidebarAd />` - In sidebar
@@ -214,7 +220,6 @@ Update ad slot IDs in `components/ui/AdSense.tsx`:
 
 - ✅ Meta tags (title, description, keywords)
 - ✅ Open Graph tags for social sharing
-- ✅ Twitter Card tags
 - ✅ Structured data (JSON-LD)
 - ✅ Semantic HTML
 - ✅ Image optimization with Next.js Image
@@ -227,11 +232,11 @@ Update ad slot IDs in `components/ui/AdSense.tsx`:
 Create `app/sitemap.ts`:
 
 ```typescript
-import { getAllPosts } from '@/lib/posts';
+import { getAllPosts } from "@/lib/posts";
 
 export default function sitemap() {
   const posts = getAllPosts();
-  
+
   const postUrls = posts.map((post) => ({
     url: `https://yoursite.com/blog/${post.slug}`,
     lastModified: new Date(post.date),
@@ -239,7 +244,7 @@ export default function sitemap() {
 
   return [
     {
-      url: 'https://yoursite.com',
+      url: "https://yoursite.com",
       lastModified: new Date(),
     },
     ...postUrls,
@@ -279,6 +284,7 @@ export default function sitemap() {
 3. The route is automatically available
 
 Example for `/services`:
+
 ```typescript
 // app/services/page.tsx
 export default function ServicesPage() {
@@ -297,18 +303,22 @@ export default function ServicesPage() {
 ### Build Errors
 
 **Error**: `Module not found`
+
 - Run `npm install` to ensure all dependencies are installed
 
 **Error**: `Type error in TypeScript`
+
 - Check your type definitions in `types/index.ts`
 
 ### Runtime Errors
 
 **Issue**: Posts not displaying
+
 - Ensure markdown files are in `content/posts/`
 - Check frontmatter format
 
 **Issue**: Images not loading
+
 - Verify image URLs are correct
 - Add domains to `next.config.js` if using external images
 

@@ -1,26 +1,26 @@
-import Link from 'next/link';
-import { FaFacebookF, FaInstagram, FaTwitter, FaYoutube } from 'react-icons/fa';
+import Link from "next/link";
+import { FaFacebookF, FaInstagram, FaYoutube } from "react-icons/fa";
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   const footerLinks = {
     explore: [
-      { name: 'Destinations', href: '/destinations' },
-      { name: 'Blog', href: '/blog' },
-      { name: 'About Us', href: '/about' },
-      { name: 'Contact', href: '/contact' },
+      { name: "Destinations", href: "/destinations" },
+      { name: "Blog", href: "/blog" },
+      { name: "About Us", href: "/about" },
+      { name: "Contact", href: "/contact" },
     ],
     categories: [
-      { name: 'Culture', href: '/category/culture' },
-      { name: 'Food', href: '/category/food' },
-      { name: 'Adventure', href: '/category/adventure' },
-      { name: 'Wildlife', href: '/category/wildlife' },
+      { name: "Culture", href: "/category/culture" },
+      { name: "Food", href: "/category/food" },
+      { name: "Adventure", href: "/category/adventure" },
+      { name: "Wildlife", href: "/category/wildlife" },
     ],
     legal: [
-      { name: 'Privacy Policy', href: '/privacy' },
-      { name: 'Terms of Service', href: '/terms' },
-      { name: 'Sitemap', href: '/sitemap' },
+      { name: "Privacy Policy", href: "/privacy" },
+      { name: "Terms of Service", href: "/terms" },
+      { name: "Sitemap", href: "/sitemap" },
     ],
   };
 
@@ -34,11 +34,13 @@ export default function Footer() {
               Sri Lanka Travel Hub
             </h3>
             <p className="text-neutral-400 mb-4">
-              Your ultimate guide to discovering the pearl of the Indian Ocean. Explore stunning destinations, rich culture, and unforgettable experiences.
+              Your ultimate guide to discovering the pearl of the Indian Ocean.
+              Explore stunning destinations, rich culture, and unforgettable
+              experiences.
             </p>
             <div className="flex space-x-4">
               <a
-                href="https://facebook.com"
+                href="https://www.facebook.com/profile.php?id=61585913333335"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-neutral-400 hover:text-primary-400 transition-colors"
@@ -46,23 +48,16 @@ export default function Footer() {
                 <FaFacebookF size={20} />
               </a>
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/srilankatravelhub/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-neutral-400 hover:text-primary-400 transition-colors"
               >
                 <FaInstagram size={20} />
               </a>
+
               <a
-                href="https://twitter.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-neutral-400 hover:text-primary-400 transition-colors"
-              >
-                <FaTwitter size={20} />
-              </a>
-              <a
-                href="https://youtube.com"
+                href="https://www.youtube.com/@SriLankaTravelHub"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-neutral-400 hover:text-primary-400 transition-colors"

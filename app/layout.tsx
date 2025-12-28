@@ -1,22 +1,22 @@
-import type { Metadata } from 'next';
-import { Playfair_Display, Lora } from 'next/font/google';
-import './globals.css';
-import Header from '@/components/layout/Header';
-import Footer from '@/components/layout/Footer';
-import { siteConfig } from '@/lib/config';
+import type { Metadata } from "next";
+import { Playfair_Display, Lora } from "next/font/google";
+import "./globals.css";
+import Header from "@/components/layout/Header";
+import Footer from "@/components/layout/Footer";
+import { siteConfig } from "@/lib/config";
 
 const playfair = Playfair_Display({
-  subsets: ['latin'],
-  variable: '--font-playfair',
-  display: 'swap',
-  weight: ['400', '500', '600', '700', '800', '900'],
+  subsets: ["latin"],
+  variable: "--font-playfair",
+  display: "swap",
+  weight: ["400", "500", "600", "700", "800", "900"],
 });
 
 const lora = Lora({
-  subsets: ['latin'],
-  variable: '--font-lora',
-  display: 'swap',
-  weight: ['400', '500', '600', '700'],
+  subsets: ["latin"],
+  variable: "--font-lora",
+  display: "swap",
+  weight: ["400", "500", "600", "700"],
 });
 
 export const metadata: Metadata = {
@@ -27,22 +27,22 @@ export const metadata: Metadata = {
   },
   description: siteConfig.description,
   keywords: [
-    'Sri Lanka travel',
-    'Sri Lanka tourism',
-    'Sri Lanka destinations',
-    'Sri Lanka culture',
-    'Sri Lanka food',
-    'Sri Lanka beaches',
-    'Sri Lanka wildlife',
-    'travel blog',
-    'Asia travel',
-    'Ceylon',
+    "Sri Lanka travel",
+    "Sri Lanka tourism",
+    "Sri Lanka destinations",
+    "Sri Lanka culture",
+    "Sri Lanka food",
+    "Sri Lanka beaches",
+    "Sri Lanka wildlife",
+    "travel blog",
+    "Asia travel",
+    "Ceylon",
   ],
   authors: [{ name: siteConfig.author.name }],
   creator: siteConfig.author.name,
   openGraph: {
-    type: 'website',
-    locale: 'en_US',
+    type: "website",
+    locale: "en_US",
     url: siteConfig.url,
     title: siteConfig.name,
     description: siteConfig.description,
@@ -56,26 +56,20 @@ export const metadata: Metadata = {
       },
     ],
   },
-  twitter: {
-    card: 'summary_large_image',
-    title: siteConfig.name,
-    description: siteConfig.description,
-    images: [siteConfig.ogImage],
-    creator: '@exploresrilanka',
-  },
+
   robots: {
     index: true,
     follow: true,
     googleBot: {
       index: true,
       follow: true,
-      'max-video-preview': -1,
-      'max-image-preview': 'large',
-      'max-snippet': -1,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
     },
   },
   verification: {
-    google: 'your-google-verification-code',
+    google: "your-google-verification-code",
     // Add other verification codes as needed
   },
 };

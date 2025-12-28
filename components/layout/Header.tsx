@@ -1,23 +1,23 @@
-'use client';
+"use client";
 
-import Link from 'next/link';
-import { useState } from 'react';
-import { FiMenu, FiX, FiSearch } from 'react-icons/fi';
-import { FaFacebookF, FaInstagram, FaTwitter, FaYoutube } from 'react-icons/fa';
-import SearchModal from '@/components/ui/SearchModal';
+import Link from "next/link";
+import { useState } from "react";
+import { FiMenu, FiX, FiSearch } from "react-icons/fi";
+import { FaFacebookF, FaInstagram, FaYoutube, FaTiktok } from "react-icons/fa";
+import SearchModal from "@/components/ui/SearchModal";
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isSearchOpen, setIsSearchOpen] = useState(false);
 
   const navigation = [
-    { name: 'Home', href: '/' },
-    { name: 'Blog', href: '/blog' },
-    { name: 'Destinations', href: '/destinations' },
-    { name: 'Culture', href: '/category/culture' },
-    { name: 'Food', href: '/category/food' },
-    { name: 'About', href: '/about' },
-    { name: 'Contact', href: '/contact' },
+    { name: "Home", href: "/" },
+    { name: "Blog", href: "/blog" },
+    { name: "Destinations", href: "/destinations" },
+    { name: "Culture", href: "/category/culture" },
+    { name: "Food", href: "/category/food" },
+    { name: "About", href: "/about" },
+    { name: "Contact", href: "/contact" },
   ];
 
   return (
@@ -52,7 +52,7 @@ export default function Header() {
           {/* Social Links & Search */}
           <div className="hidden lg:flex items-center space-x-4">
             <a
-              href="https://facebook.com"
+              href="https://www.facebook.com/profile.php?id=61585913333335"
               target="_blank"
               rel="noopener noreferrer"
               className="text-neutral-700 transition-colors hover:text-primary-600"
@@ -60,28 +60,30 @@ export default function Header() {
               <FaFacebookF size={18} />
             </a>
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/srilankatravelhub/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-neutral-700 transition-colors hover:text-primary-600"
             >
               <FaInstagram size={18} />
             </a>
+
             <a
-              href="https://twitter.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-neutral-700 transition-colors hover:text-primary-600"
-            >
-              <FaTwitter size={18} />
-            </a>
-            <a
-              href="https://youtube.com"
+              href="https://www.youtube.com/@SriLankaTravelHub"
               target="_blank"
               rel="noopener noreferrer"
               className="text-neutral-700 transition-colors hover:text-primary-600"
             >
               <FaYoutube size={18} />
+            </a>
+
+            <a
+              href="https://www.tiktok.com/@srilanka_travelhub"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-neutral-700 transition-colors hover:text-primary-600"
+            >
+              <FaTiktok size={18} />
             </a>
 
             <button
@@ -117,7 +119,7 @@ export default function Header() {
               ))}
               <div className="flex items-center space-x-6 pt-4 border-t">
                 <a
-                  href="https://facebook.com"
+                  href="https://www.facebook.com/profile.php?id=61585913333335"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-neutral-700 hover:text-primary-600"
@@ -125,23 +127,16 @@ export default function Header() {
                   <FaFacebookF size={20} />
                 </a>
                 <a
-                  href="https://instagram.com"
+                  href="https://www.instagram.com/srilankatravelhub/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-neutral-700 hover:text-primary-600"
                 >
                   <FaInstagram size={20} />
                 </a>
+
                 <a
-                  href="https://twitter.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-neutral-700 hover:text-primary-600"
-                >
-                  <FaTwitter size={20} />
-                </a>
-                <a
-                  href="https://youtube.com"
+                  href="https://www.youtube.com/@SriLankaTravelHub"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-neutral-700 hover:text-primary-600"
@@ -155,7 +150,10 @@ export default function Header() {
       </div>
 
       {/* Search Modal */}
-      <SearchModal isOpen={isSearchOpen} onClose={() => setIsSearchOpen(false)} />
+      <SearchModal
+        isOpen={isSearchOpen}
+        onClose={() => setIsSearchOpen(false)}
+      />
     </header>
   );
 }

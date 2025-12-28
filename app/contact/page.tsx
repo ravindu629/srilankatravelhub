@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { Metadata } from "next";
 import { FiMail, FiMapPin, FiPhone, FiSend } from "react-icons/fi";
-import { FaFacebookF, FaInstagram, FaTwitter, FaYoutube } from "react-icons/fa";
+import { FaFacebookF, FaInstagram, FaYoutube } from "react-icons/fa";
 
 export default function ContactPage() {
   const [formData, setFormData] = useState({
@@ -250,7 +250,7 @@ export default function ContactPage() {
               </p>
               <div className="flex space-x-4">
                 <a
-                  href="https://facebook.com"
+                  href="https://www.facebook.com/profile.php?id=61585913333335"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 bg-white/10 backdrop-blur-sm rounded-full flex items-center justify-center hover:bg-white/20 transition-colors"
@@ -258,23 +258,16 @@ export default function ContactPage() {
                   <FaFacebookF size={20} />
                 </a>
                 <a
-                  href="https://instagram.com"
+                  href="https://www.instagram.com/srilankatravelhub/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 bg-white/10 backdrop-blur-sm rounded-full flex items-center justify-center hover:bg-white/20 transition-colors"
                 >
                   <FaInstagram size={20} />
                 </a>
+
                 <a
-                  href="https://twitter.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="w-12 h-12 bg-white/10 backdrop-blur-sm rounded-full flex items-center justify-center hover:bg-white/20 transition-colors"
-                >
-                  <FaTwitter size={20} />
-                </a>
-                <a
-                  href="https://youtube.com"
+                  href="https://www.youtube.com/@SriLankaTravelHub"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 bg-white/10 backdrop-blur-sm rounded-full flex items-center justify-center hover:bg-white/20 transition-colors"
