@@ -23,7 +23,7 @@ Thanks to two distinct monsoon seasons affecting different parts of the island a
 
 This complete guide breaks down Sri Lanka's weather patterns month by month, helping you plan the perfect trip whether you're seeking pristine beaches, wildlife safaris, cultural experiences, or budget-friendly adventures.
 
-**New to Sri Lanka?** Check out our [Ultimate Sri Lanka Travel Guide](https://www.srilankatravelhub.com/blog/ultimate-sri-lanka-travel-guide-2026) for complete planning information including visa requirements, costs, and top destinations.
+**New to Sri Lanka?** Check out our [Ultimate Sri Lanka Travel Guide](https://www.srilankatravelhub.com/blog/blog-1-ultimate-sri-lanka-travel-guide-2026) for complete planning information including visa requirements, costs, and top destinations.
 
 ![Sri Lanka's diverse landscapes throughout the year](https://images.unsplash.com/photo-1530521954074-e64f6810b32d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
