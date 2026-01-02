@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Sri Lanka Travel Guide 2026: Everything You Need to Know"
 description: "Complete Sri Lanka travel guide covering best places to visit, costs, transport, food, safety tips, and visa requirements. Plan your perfect Sri Lankan adventure with this comprehensive guide."
-date: "2024-12-28"
+date: "2025-12-22"
 author: "Sri Lanka Travel Team"
 category: "Travel Tips"
 image: "https://images.unsplash.com/photo-1542467372-47ff6783af3d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
