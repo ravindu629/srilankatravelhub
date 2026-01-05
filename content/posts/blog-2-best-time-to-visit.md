@@ -1,5 +1,5 @@
 ---
-title: "Best Time to Visit Sri Lanka 2025: Complete Month-by-Month Weather Guide"
+title: "Best Time to Visit Sri Lanka 2026: Complete Month-by-Month Weather Guide"
 description: "Discover the best time to visit Sri Lanka with our complete month-by-month guide. Learn about monsoon seasons, peak times, and when to visit for beaches, wildlife, and budget travel."
 date: "2025-12-25"
 author: "Sri Lanka Travel Team"
