@@ -25,7 +25,7 @@ If you're planning a trip to Sri Lanka or wondering whether it's safe to visit a
 
 This guide cuts through the headlines to give you accurate, up-to-date information about traveling to Sri Lanka, what areas are fully operational, where extra caution is advised, and how your visit directly supports the recovery of communities affected by the cyclone.
 
-**Planning your trip?** Read our [Ultimate Sri Lanka Travel Guide 2026: Everything You Need to Know](https://www.srilankatravelhub.com/blog/ultimate-sri-lanka-travel-guide-2026) for comprehensive planning information, check [Best Time to Visit Sri Lanka 2025: Complete Month-by-Month Weather Guide](https://www.srilankatravelhub.com/blog/blog-2-best-time-to-visit) to understand seasonal weather patterns, and review our [Sri Lanka Travel Cost Breakdown](https://www.srilankatravelhub.com/blog/log-3-srilanka-travel-costs) for budget planning.
+**Planning your trip?** Read our [Ultimate Sri Lanka Travel Guide 2026: Everything You Need to Know](https://www.srilankatravelhub.com/blog/blog-1-ultimate-sri-lanka-travel-guide-2026) for comprehensive planning information, check [Best Time to Visit Sri Lanka 2025: Complete Month-by-Month Weather Guide](https://www.srilankatravelhub.com/blog/blog-2-best-time-to-visit) to understand seasonal weather patterns, and review our [Sri Lanka Travel Cost Breakdown](https://www.srilankatravelhub.com/blog/blog-3-srilanka-travel-costs) for budget planning.
 
 ![Sri Lanka landscape after recovery efforts](https://images.unsplash.com/photo-1701544857566-dd1d044b9dea?q=80&w=750&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
@@ -205,7 +205,7 @@ As of December 11, Sri Lanka had recorded 2.17 million tourist arrivals for 2025
 ### Before You Go
 
 **Plan Your Budget:**
-Understanding costs helps you plan better. Check our detailed [Sri Lanka Travel Cost Breakdown](https://www.srilankatravelhub.com/blog/log-3-srilanka-travel-costs) to estimate your trip expenses and find money-saving tips.
+Understanding costs helps you plan better. Check our detailed [Sri Lanka Travel Cost Breakdown](https://www.srilankatravelhub.com/blog/blog-3-srilanka-travel-costs) to estimate your trip expenses and find money-saving tips.
 
 **Check Current Conditions:**
 
@@ -599,9 +599,9 @@ Your visit isn't just a vacation - it's a vote of confidence in Sri Lanka's reco
 
 **Helpful resources:**
 
-- [Ultimate Sri Lanka Travel Guide 2026: Everything You Need to Know](https://www.srilankatravelhub.com/blog/ultimate-sri-lanka-travel-guide-2026) - Complete planning information
+- [Ultimate Sri Lanka Travel Guide 2026: Everything You Need to Know](https://www.srilankatravelhub.com/blog/blog-1-ultimate-sri-lanka-travel-guide-2026) - Complete planning information
 - [Best Time to Visit Sri Lanka 2025: Complete Month-by-Month Weather Guide](https://www.srilankatravelhub.com/blog/blog-2-best-time-to-visit) - Seasonal weather guide
-- [Sri Lanka Travel Cost 2025: Complete Budget Breakdown & Money-Saving Tips](https://www.srilankatravelhub.com/blog/log-3-srilanka-travel-costs) - Budget planning
+- [Sri Lanka Travel Cost 2025: Complete Budget Breakdown & Money-Saving Tips](https://www.srilankatravelhub.com/blog/blog-3-srilanka-travel-costs) - Budget planning
 - Sri Lanka Tourism Hotline: **1912** (24/7 support)
 
 **Sri Lanka is open, safe, and ready to create unforgettable memories. Your journey supports recovery, empowers communities, and reminds the world that this beautiful island remains one of Asia's must-visit destinations.**

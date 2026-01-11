@@ -1147,6 +1147,6 @@ Sri Lanka is ready to welcome you. Your visa is your ticket to one of Asia's mos
 
 ---
 
-*Last updated: January 6, 2026. Visa requirements and fees subject to change. Always verify current information on the official ETA website before applying.*
+*Last updated: January 5, 2026. Visa requirements and fees subject to change. Always verify current information on the official ETA website before applying.*
 
 **Have questions?** Drop them in the comments below, and we'll help you get your Sri Lanka visa approved! 💬

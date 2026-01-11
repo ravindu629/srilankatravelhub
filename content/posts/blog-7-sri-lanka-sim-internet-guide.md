@@ -4,7 +4,7 @@ description: "Complete guide to internet, SIM cards, and mobile data in Sri Lank
 date: "2025-01-09"
 author: "Sri Lanka Travel Team"
 category: "Travel Tips"
-image: "https://images.unsplash.com/photo-1526411116157-21b2b172c6bc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+image: "https://images.unsplash.com/photo-1610168388710-a8cfbafe6c30?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 tags: ["sri lanka sim card", "mobile internet", "data plans", "connectivity", "travel tips", "technology"]
 featured: true
 ---
