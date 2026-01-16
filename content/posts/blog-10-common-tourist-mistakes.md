@@ -19,7 +19,7 @@ We're talking about the mistakes that tourists make every single day: showing up
 
 This isn't just a list of "don't do this" warnings. For each mistake, you'll learn exactly why it happens, what the real consequences are, and most importantly, the specific steps to avoid it completely. Consider this your friend looking out for you, sharing all the lessons learned the hard way so you don't have to.
 
-**Planning your Sri Lanka adventure?** Start with our [Ultimate Sri Lanka Travel Guide 2026](https://www.srilankatravelhub.com/blog/blog-1-ultimate-sri-lanka-travel-guide-2026) for comprehensive planning, and check our [Sri Lanka Do's and Don'ts 2026](https://www.srilankatravelhub.com/blog/blog-10-common-tourist-mistakes) for cultural guidelines.
+**Planning your Sri Lanka adventure?** Start with our [Ultimate Sri Lanka Travel Guide 2026](https://www.srilankatravelhub.com/blog/blog-1-ultimate-sri-lanka-travel-guide-2026) for comprehensive planning, and check our [Sri Lanka Do's and Don'ts 2026](https://www.srilankatravelhub.com/blog/blog-9-sri-lanka-dos-donts) for cultural guidelines.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
   <div style="grid-column: 1 / -1;">
@@ -291,7 +291,7 @@ Tourists simply don't know the rules, and they're not intuitive if you're from a
 - Don't argue or make excuses
 - Learn and don't repeat
 
-**For complete cultural guidance, read our [Sri Lankan Culture & Etiquette Guide 2026](https://www.srilankatravelhub.com/blog/blog-8-sri-lanka-culture-etiquette) and [Sri Lanka Do's and Don'ts 2026](https://www.srilankatravelhub.com/blog/blog-10-common-tourist-mistakes).**
+**For complete cultural guidance, read our [Sri Lankan Culture & Etiquette Guide 2026](https://www.srilankatravelhub.com/blog/blog-8-sri-lanka-culture-etiquette) and [Sri Lanka Do's and Don'ts 2026](https://www.srilankatravelhub.com/blog/blog-9-sri-lanka-dos-donts).**
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 30px 0;">
   <div>
@@ -2207,7 +2207,7 @@ This isn't about making you paranoid or stressed. It's about giving you the info
 **Essential reading:**
 - [Ultimate Sri Lanka Travel Guide 2026](https://www.srilankatravelhub.com/blog/blog-1-ultimate-sri-lanka-travel-guide-2026) - Complete destination planning
 - [Sri Lankan Culture & Etiquette Guide 2026](https://www.srilankatravelhub.com/blog/blog-8-sri-lanka-culture-etiquette) - Deep cultural understanding
-- [Sri Lanka Do's and Don'ts 2026](https://www.srilankatravelhub.com/blog/blog-10-common-tourist-mistakes) - Quick cultural reference
+- [Sri Lanka Do's and Don'ts 2026](https://www.srilankatravelhub.com/blog/blog-9-sri-lanka-dos-donts) - Quick cultural reference
 - [Sri Lanka Visa Guide 2026](https://www.srilankatravelhub.com/blog/blog-5-sri-lanka-visa-guide) - Documentation ready
 - [Sri Lanka Airports & Arrival Guide 2026](https://www.srilankatravelhub.com/blog/blog-6-sri-lanka-airports-guide) - Smooth entry
 - [Sri Lanka SIM Card & Internet Guide 2026](https://www.srilankatravelhub.com/blog/blog-7-sri-lanka-sim-internet-guide) - Stay connected
