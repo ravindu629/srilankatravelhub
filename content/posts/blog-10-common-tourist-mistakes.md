@@ -1,7 +1,7 @@
 ---
 title: "15 Common Tourist Mistakes in Sri Lanka 2026 (And Exactly How to Avoid Every Single One)"
 description: "Don't let these common tourist mistakes ruin your Sri Lanka trip. Learn from others' errors: weather planning, cultural blunders, overpaying, safety issues, and more. Complete guide with solutions for first-time visitors."
-date: "2025-01-15"
+date: "2025-01-17"
 author: "Sri Lanka Travel Team"
 category: "Travel Tips"
 image: "https://images.unsplash.com/photo-1714281346649-3594296cc13f?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -2226,6 +2226,6 @@ Just do it smartly, respectfully, and informed.
 
 ---
 
-*Last updated: January 15, 2026. Information and prices subject to change. Always verify current details before travel.*
+*Last updated: January 17, 2026. Information and prices subject to change. Always verify current details before travel.*
 
 **Have a mistake we didn't cover or a story to share? Drop it in the comments to help future travelers!** 💬
