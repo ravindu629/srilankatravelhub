@@ -1,11 +1,19 @@
 ---
 title: "Sri Lanka Airports Guide 2026: Complete Arrival Guide from Landing to City (What Every Tourist Needs)"
 description: "Complete guide to Sri Lanka airports and arrival process. Everything from immigration to transport, SIM cards, money exchange, and getting to your destination. Make your arrival smooth and stress-free."
-date: "2025-01-07"
+date: "2026-01-07"
 author: "Sri Lanka Travel Team"
 category: "Travel Tips"
 image: "https://images.unsplash.com/photo-1520437358207-323b43b50729?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-tags: ["sri lanka airports", "colombo airport", "arrival guide", "airport transport", "travel tips", "immigration"]
+tags:
+  [
+    "sri lanka airports",
+    "colombo airport",
+    "arrival guide",
+    "airport transport",
+    "travel tips",
+    "immigration",
+  ]
 featured: true
 ---
 
@@ -34,7 +42,8 @@ Katunayake, approximately 35km north of Colombo
 **Airport Code:**  
 CMB (often listed as "Colombo" on flight bookings)
 
-**Total Airports:**  
+**Total Airports:**
+
 - 1 primary international airport
 - 1 secondary international airport (limited use)
 - 6+ domestic airports
@@ -67,6 +76,7 @@ Unless specifically booked otherwise, you'll arrive at Bandaranaike Internationa
 Bandaranaike International Airport is Sri Lanka's primary aviation hub and will be your entry point to the island. Named after Solomon Bandaranaike, former Prime Minister of Sri Lanka, the airport has undergone significant modernization to handle growing tourist numbers.
 
 **Recent upgrades (2024-2026):**
+
 - Expanded terminal capacity
 - Improved immigration processing
 - Enhanced duty-free facilities
@@ -78,6 +88,7 @@ Bandaranaike International Airport is Sri Lanka's primary aviation hub and will 
 The airport has **one main terminal** handling all international flights, divided into:
 
 **Arrivals Hall (Ground Floor):**
+
 - Immigration counters
 - Baggage claim areas
 - Customs clearance
@@ -85,6 +96,7 @@ The airport has **one main terminal** handling all international flights, divide
 - Ground transport
 
 **Departures Hall (Upper Floor):**
+
 - Check-in counters
 - Security screening
 - Immigration
@@ -94,6 +106,7 @@ The airport has **one main terminal** handling all international flights, divide
 **Key Facilities Available 24/7:**
 
 **Essential Services:**
+
 - Immigration & customs
 - Baggage services
 - Information desks
@@ -101,6 +114,7 @@ The airport has **one main terminal** handling all international flights, divide
 - Medical assistance
 
 **Tourist Services:**
+
 - Currency exchange counters (4 locations)
 - ATMs (multiple banks)
 - SIM card counters (Dialog, Mobitel, Airtel)
@@ -108,6 +122,7 @@ The airport has **one main terminal** handling all international flights, divide
 - Left luggage storage
 
 **Comfort & Convenience:**
+
 - Free WiFi (first hour free, paid extended access)
 - Restaurants (local & international)
 - Cafés (Starbucks, local chains)
@@ -117,6 +132,7 @@ The airport has **one main terminal** handling all international flights, divide
 - Baby care rooms
 
 **Transport Services:**
+
 - Official taxi counters
 - Ride-hailing app pickup zones
 - Airport bus stops
@@ -134,16 +150,19 @@ Let's walk through exactly what happens from the moment you land until you exit 
 **During your flight:**
 
 **1. Arrival Card (if required)**
+
 - Sometimes distributed on flight
 - May be completed electronically at immigration
 - Fill in: Personal details, passport info, Sri Lanka address, purpose of visit
 
 **2. Customs Declaration**
+
 - Required if carrying restricted items
 - Filled out on plane or at airport
 - Declare: Large amounts of cash, expensive items, restricted goods
 
 **3. Have Ready:**
+
 - Passport (with 6+ months validity)
 - ETA approval (digital or printed)
 - Return ticket booking
@@ -157,6 +176,7 @@ Let's walk through exactly what happens from the moment you land until you exit 
 ### Step 1: Disembarkation (5-10 minutes)
 
 **What happens:**
+
 - Plane parks at gate or aerobridge
 - Follow signs for "Arrivals" or "Immigration"
 - Clear directional signage in English
@@ -169,11 +189,13 @@ Let's walk through exactly what happens from the moment you land until you exit 
 ### Step 2: Immigration & Passport Control (15-45 minutes)
 
 **Queue selection:**
+
 - **Look for:** "Foreign Passport" or "Visitors" lanes
 - **Avoid:** "Sri Lankan Nationals" lanes (unless you're a citizen)
 - **Multiple counters** usually operating based on flight arrivals
 
 **Wait times:**
+
 - Peak hours (evening arrivals): 30-45 minutes
 - Off-peak: 15-25 minutes
 - Express lanes sometimes available for business class
@@ -181,18 +203,21 @@ Let's walk through exactly what happens from the moment you land until you exit 
 **At the immigration counter:**
 
 **Officer will:**
+
 1. Take your passport
 2. Ask for ETA approval (some scan it automatically)
 3. Ask standard questions
 
 **Common questions:**
-- "Purpose of visit?" → *Tourism/Holiday*
-- "How long are you staying?" → *[Number] days*
-- "Where are you staying?" → *[Hotel name or city]*
-- "Is this your first visit?" → *Yes/No*
-- "Do you have a return ticket?" → *Yes [show if asked]*
+
+- "Purpose of visit?" → _Tourism/Holiday_
+- "How long are you staying?" → _[Number] days_
+- "Where are you staying?" → _[Hotel name or city]_
+- "Is this your first visit?" → _Yes/No_
+- "Do you have a return ticket?" → _Yes [show if asked]_
 
 **What the officer does:**
+
 - Scans passport and ETA
 - Verifies your visa status
 - Checks passport validity
@@ -201,6 +226,7 @@ Let's walk through exactly what happens from the moment you land until you exit 
 - **Stamps your passport** with entry stamp
 
 **Entry stamp shows:**
+
 - Entry date (today's date)
 - Visa type (Tourist)
 - Validity period (30 days from today)
@@ -213,23 +239,27 @@ Let's walk through exactly what happens from the moment you land until you exit 
 ### Step 3: Baggage Claim (10-20 minutes)
 
 **Finding your luggage:**
+
 - Multiple baggage carousels
 - Digital screens show flight numbers
 - Find your flight number
 - Wait at corresponding carousel
 
 **Baggage services:**
+
 - **Free trolleys** available (no coins needed!)
 - **Porter assistance** available (tip: 200-500 LKR)
 - **Damaged luggage counter** if bags are damaged
 - **Lost luggage office** if bags don't arrive
 
 **Pro tips:**
+
 - Take photo of your baggage claim ticket
 - Watch for your bags carefully (similar-looking luggage)
 - Keep valuables in carry-on, not checked bags
 
 **If your luggage is lost:**
+
 1. Don't leave airport
 2. Go to airline's baggage desk immediately
 3. File missing baggage report
@@ -244,16 +274,19 @@ Let's walk through exactly what happens from the moment you land until you exit 
 **Two channels:**
 
 **Green Channel (Nothing to Declare):**
+
 - Most tourists use this
 - Walk straight through
 - Occasional random checks
 
 **Red Channel (Goods to Declare):**
+
 - Use if carrying restricted items
 - Declare valuable items
 - Pay duties if required
 
 **Items requiring declaration:**
+
 - Amounts over $15,000 USD cash
 - Professional camera/video equipment
 - Drones (require prior approval)
@@ -262,6 +295,7 @@ Let's walk through exactly what happens from the moment you land until you exit 
 - Commercial goods
 
 **Restricted/Prohibited items:**
+
 - Illegal drugs (severe penalties)
 - Firearms and weapons
 - Explosives
@@ -273,11 +307,13 @@ Let's walk through exactly what happens from the moment you land until you exit 
 **Sri Lanka is very strict on drugs. Penalties are severe, including death penalty for trafficking.**
 
 **Alcohol & Tobacco allowances:**
+
 - 2 bottles wine or spirits (1.5L total)
 - 200 cigarettes or 50 cigars
 - Amounts above require duty payment
 
 **If stopped at customs:**
+
 - Be polite and cooperative
 - Answer questions honestly
 - Show receipts if asked
@@ -290,6 +326,7 @@ Let's walk through exactly what happens from the moment you land until you exit 
 **You've cleared immigration and customs. Welcome to Sri Lanka!**
 
 **Arrivals hall layout:**
+
 - Multiple exit doors
 - Tourist services on both sides
 - Clear signage to transport
@@ -298,30 +335,35 @@ Let's walk through exactly what happens from the moment you land until you exit 
 **Essential services immediately available:**
 
 **Tourist Information Desk:**
+
 - Free maps and brochures
 - Questions answered
 - Directions provided
 - Hours: 24/7
 
 **SIM Card Counters (Priority #1):**
+
 - Location: Right side after customs
 - Providers: Dialog, Mobitel, Airtel
 - Open: 24/7
 - **Get this FIRST before anything else!**
 
 **Currency Exchange:**
+
 - Multiple counters
 - Competitive rates
 - Hours: 24/7
 - **Or use ATMs for better rates**
 
 **ATMs:**
+
 - Multiple machines
 - Accept international cards
 - Dispense Sri Lankan Rupees (LKR)
 - Fees: 300-500 LKR per transaction
 
 **Transport booking desks:**
+
 - Official taxis
 - Private transfers
 - Tours and packages
@@ -335,6 +377,7 @@ Let's walk through exactly what happens from the moment you land until you exit 
 ### Why You Need a Local SIM Card
 
 **Absolutely essential for:**
+
 - Google Maps navigation
 - Calling tuk-tuk drivers/hotels
 - Using ride-hailing apps (PickMe, Uber)
@@ -344,6 +387,7 @@ Let's walk through exactly what happens from the moment you land until you exit 
 - Translating Sinhala/Tamil
 
 **Cost vs value:**
+
 - **Price:** $5-15 for tourist package
 - **Value:** Priceless for hassle-free travel
 - **Alternative (no SIM):** Constant wifi hunting, getting lost, unable to call anyone
@@ -409,12 +453,14 @@ Let's walk through exactly what happens from the moment you land until you exit 
 6. **Done!**
 
 **What you receive:**
+
 - Activated SIM card (nano, micro, or regular)
 - Tourist package activated
 - Local phone number
 - Instructions card
 
 **Pro tips:**
+
 - Buy at airport (easier than finding shops later)
 - Dialog has best coverage (worth paying slightly more)
 - Keep your original SIM safe
@@ -424,6 +470,7 @@ Let's walk through exactly what happens from the moment you land until you exit 
 ### Coverage & Speed
 
 **4G LTE coverage:**
+
 - All cities: Excellent
 - Tourist areas: Excellent
 - National parks: Good (Dialog best)
@@ -432,6 +479,7 @@ Let's walk through exactly what happens from the moment you land until you exit 
 - Hill country: Good
 
 **Typical speeds:**
+
 - 4G: 10-30 Mbps
 - 3G: 2-5 Mbps (rural areas)
 - Sufficient for: Maps, messaging, browsing, social media
@@ -440,14 +488,16 @@ Let's walk through exactly what happens from the moment you land until you exit 
 ### Top-Up & Extensions
 
 **If you run out of data:**
+
 - Top-up at any shop displaying provider logo
 - Purchase online via app
 - Reload vouchers at convenience stores
 
 **Checking balance:**
+
 - Dialog: Dial #456#
 - Mobitel: Dial #177#
-- Airtel: Dial *125#
+- Airtel: Dial \*125#
 
 ![Mobile phone with local SIM card](https://images.unsplash.com/photo-1562831915-6524120efded?q=80&w=1097&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
@@ -458,15 +508,18 @@ Let's walk through exactly what happens from the moment you land until you exit 
 **Official currency:** Sri Lankan Rupee (LKR or Rs.)
 
 **Approximate exchange rates (2026):**
+
 - 1 USD = 300-320 LKR
 - 1 EUR = 330-350 LKR
 - 1 GBP = 390-410 LKR
 
 **Denominations:**
+
 - **Bills:** 20, 50, 100, 500, 1000, 5000 LKR
 - **Coins:** 1, 2, 5, 10 LKR
 
 **Typical costs:**
+
 - Tuk-tuk ride: 200-500 LKR
 - Local meal: 500-1000 LKR
 - Water bottle: 100-150 LKR
@@ -478,17 +531,20 @@ Let's walk through exactly what happens from the moment you land until you exit 
 **Operating hours:** 24/7
 
 **Exchange rates:**
+
 - Slightly less favorable than city rates (2-5% difference)
 - Still acceptable for convenience
 - Better than hotel exchanges
 
 **Recommendation:** Exchange only what you need for first day:
+
 - Airport to hotel transport: 2,000-3,000 LKR
 - Meals: 1,500-2,000 LKR
 - Tips and small purchases: 1,000 LKR
 - **Total:** Exchange $20-30 at airport
 
 **Exchange more later in:**
+
 - Colombo city (better rates)
 - Major hotels
 - Banks
@@ -500,23 +556,27 @@ Let's walk through exactly what happens from the moment you land until you exit 
 **Location:** Multiple ATMs in arrivals hall
 
 **Banks available:**
+
 - Commercial Bank
 - Bank of Ceylon
 - Sampath Bank
 - HSBC
 
 **Accepted cards:**
+
 - Visa
 - Mastercard
 - Maestro
 - Cirrus network
 
 **Withdrawal limits:**
+
 - Usually 40,000-100,000 LKR per transaction
 - Depends on your bank
 - Can make multiple withdrawals
 
 **Fees:**
+
 - Sri Lankan bank fee: 300-500 LKR per transaction
 - Your bank's international fee: 2-4%
 - Total cost: ~$5-7 per withdrawal
@@ -536,6 +596,7 @@ Let's walk through exactly what happens from the moment you land until you exit 
 ❌ Damaged/torn bills (won't be accepted)
 
 **Smart money strategy:**
+
 1. Exchange $20-30 at airport (immediate needs)
 2. Use ATM in Colombo for bulk cash (better rates)
 3. Keep credit card for hotels and tours
@@ -589,6 +650,7 @@ Getting from the airport to your hotel or first destination is straightforward w
 </div>
 
 **Traffic note:** Colombo traffic is heavy during:
+
 - Morning rush: 7:30-9:30 AM
 - Evening rush: 5:00-8:00 PM
 - **Plan accordingly!**
@@ -602,12 +664,14 @@ Getting from the airport to your hotel or first destination is straightforward w
 **How it works:**
 
 **Official taxi counters:**
+
 - Located in arrivals hall (can't miss them)
 - Clear signage: "Pre-Paid Taxi"
 - Multiple companies operating
 - Open 24/7
 
 **Process:**
+
 1. Go to counter
 2. Tell them destination
 3. Pay fixed price upfront
@@ -618,6 +682,7 @@ Getting from the airport to your hotel or first destination is straightforward w
 8. No additional payment needed
 
 **Costs (approximate, 2026):**
+
 - Colombo city: 3,500-4,500 LKR ($12-15)
 - Negombo: 1,500-2,000 LKR ($5-7)
 - Kandy: 12,000-15,000 LKR ($40-50)
@@ -646,6 +711,7 @@ Getting from the airport to your hotel or first destination is straightforward w
 **Available apps:**
 
 **PickMe (Most Popular):**
+
 - Like Uber but Sri Lankan
 - Wide coverage
 - Competitive pricing
@@ -654,6 +720,7 @@ Getting from the airport to your hotel or first destination is straightforward w
 - **Download before you travel**
 
 **Uber:**
+
 - Available but less common than PickMe
 - Primarily in Colombo area
 - International app (familiar interface)
@@ -661,11 +728,13 @@ Getting from the airport to your hotel or first destination is straightforward w
 **How to use:**
 
 **Before arrival:**
+
 1. Download PickMe app
 2. Set up account
 3. Add payment method (optional - cash works)
 
 **At airport:**
+
 1. Get SIM card first (need data!)
 2. Connect to airport WiFi (or use data)
 3. Open PickMe app
@@ -677,6 +746,7 @@ Getting from the airport to your hotel or first destination is straightforward w
 9. Enjoy ride
 
 **Costs (typical, 2026):**
+
 - Colombo city: 2,000-3,000 LKR ($7-10)
 - Negombo: 800-1,200 LKR ($3-4)
 - Kandy: 8,000-10,000 LKR ($27-33)
@@ -706,17 +776,20 @@ Getting from the airport to your hotel or first destination is straightforward w
 **Best for:** Groups, families, luxury travelers, those with lots of luggage
 
 **How it works:**
+
 - Book online before arrival
 - Driver meets you at arrivals with name sign
 - Immediate departure, no waiting
 - Direct to destination
 
 **Booking options:**
+
 - Hotel booking (many hotels offer this)
 - GetYourGuide, Viator (international platforms)
 - Local companies (via email/WhatsApp)
 
 **Costs (approximate, 2026):**
+
 - Colombo city: $20-35
 - Negombo: $10-15
 - Kandy: $60-80
@@ -751,12 +824,14 @@ Airport → Colombo city (various stops)
 **Duration:** 1.5-2 hours (much slower due to stops)
 
 **How to find:**
+
 - Exit arrivals hall
 - Look for bus stop signs
 - Ask staff "Airport bus to Colombo?"
 - Bus #187 is main route
 
 **Schedule:**
+
 - Frequent departures
 - Every 30-60 minutes
 - 6:00 AM - 10:00 PM (limited night service)
@@ -775,6 +850,7 @@ Airport → Colombo city (various stops)
 ❌ Language barrier
 
 **Realistic assessment:** Only suitable if:
+
 - You have minimal luggage
 - You're not time-sensitive
 - You're comfortable with crowded local transport
@@ -808,6 +884,7 @@ Airport → Colombo city (various stops)
 ### Why It Exists
 
 Built in 2013 as Sri Lanka's second international airport, Mattala was intended to:
+
 - Reduce congestion at Colombo airport
 - Serve southern tourist destinations
 - Be close to Yala National Park
@@ -818,12 +895,14 @@ Built in 2013 as Sri Lanka's second international airport, Mattala was intended 
 ### Current Operations (2026)
 
 **International flights:**
+
 - Very limited
 - Occasional charter flights
 - Some seasonal routes
 - Mostly cargo operations
 
 **Who uses it:**
+
 - Specialized tour groups
 - Charter flights
 - Cargo operations
@@ -834,12 +913,14 @@ Built in 2013 as Sri Lanka's second international airport, Mattala was intended 
 **99% of tourists will NOT use this airport.**
 
 **Use only if:**
+
 - Specifically booked tour starting in south
 - Charter flight arranged
 - Special business reasons
 - Significantly cheaper flight (check if savings offset transport costs)
 
 **Disadvantages:**
+
 - Very limited flight options
 - Far from most tourist destinations (even southern ones)
 - Less developed facilities
@@ -855,6 +936,7 @@ Sri Lanka has several domestic airports, but most tourists won't need them.
 ### Domestic Airport Network
 
 **Major domestic airports:**
+
 1. **Ratmalana Airport** (Colombo) - Closest to city
 2. **Sigiriya Airport** - Near Cultural Triangle
 3. **Batticaloa Airport** - East coast
@@ -865,40 +947,47 @@ Sri Lanka has several domestic airports, but most tourists won't need them.
 ### Domestic Flight Services
 
 **Operators:**
+
 - Cinnamon Air (seaplanes & small aircraft)
 - FitsAir (charter)
 - Helitours (helicopters)
 
 **Typical routes:**
+
 - Colombo ↔ Sigiriya (30 mins vs 4 hours by car)
 - Colombo ↔ Trincomalee (45 mins vs 5-6 hours)
 - Colombo ↔ Jaffna (1 hour vs 7-8 hours)
 
 **Costs:**
+
 - One-way: $100-200 USD
 - Scenic flights: $150-300 USD
 
 ### Should You Use Domestic Flights?
 
 **Advantages:**
+
 - Massive time savings
 - Scenic views
 - Comfortable
 - Unique experience
 
 **Disadvantages:**
+
 - Expensive (10-20x cost of bus/train)
 - Limited schedules
 - Weight restrictions
 - Miss scenery/culture of ground travel
 
 **Worth it if:**
+
 - Limited time
 - Connecting with international flights
 - Higher budget
 - Physical difficulties with long drives
 
 **Not worth it if:**
+
 - Budget travel
 - Time available
 - Want authentic experience
@@ -911,6 +1000,7 @@ Sri Lanka has several domestic airports, but most tourists won't need them.
 ### Before You Land
 
 **✈️ During Flight:**
+
 - Fill out arrival card (if distributed)
 - Set phone to airplane mode, then turn on upon landing
 - Have passport/ETA ready
@@ -918,6 +1008,7 @@ Sri Lanka has several domestic airports, but most tourists won't need them.
 - Prepare first-day cash (USD)
 
 **📱 Phone Preparation:**
+
 - Ensure phone is unlocked for international SIM
 - Download offline maps (Google Maps)
 - Download PickMe app
@@ -943,6 +1034,7 @@ Sri Lanka has several domestic airports, but most tourists won't need them.
 ### What to Avoid at Airport
 
 **❌ Don't:**
+
 - Accept offers from unofficial "taxi drivers" outside
 - Exchange large amounts at airport (rates not best)
 - Agree to "tours" from random people
@@ -951,6 +1043,7 @@ Sri Lanka has several domestic airports, but most tourists won't need them.
 - Buy overpriced tourist SIM from hotels (get at airport!)
 
 **✅ Do:**
+
 - Use official taxi counters or ride apps only
 - Keep small bills separate for tips
 - Take airport WiFi password if available
@@ -960,6 +1053,7 @@ Sri Lanka has several domestic airports, but most tourists won't need them.
 ### Safety Tips
 
 **Sri Lanka airports are very safe, but:**
+
 - Watch your belongings in crowded areas
 - Don't flash large amounts of cash
 - Use official services only
@@ -970,6 +1064,7 @@ Sri Lanka has several domestic airports, but most tourists won't need them.
 ### Cultural Etiquette
 
 **From airport onwards:**
+
 - Dress modestly (shoulders and knees covered for temples)
 - Remove shoes when entering temples
 - Ask before photographing people
@@ -981,6 +1076,7 @@ Sri Lanka has several domestic airports, but most tourists won't need them.
 **2026 travel weather:** Check our [Best Time to Visit Sri Lanka 2026](https://www.srilankatravelhub.com/blog/blog-2-best-time-to-visit) for complete seasonal information to match your arrival dates with ideal weather.
 
 **Upon arrival:**
+
 - Hot and humid year-round (25-32°C)
 - Dress in light, breathable clothing
 - Stay hydrated
@@ -989,11 +1085,13 @@ Sri Lanka has several domestic airports, but most tourists won't need them.
 ### First Day Recommendations
 
 **Arriving morning/afternoon:**
+
 - Head to nearby Negombo for beach rest (15 mins from airport)
 - Explore Colombo briefly (1-2 hour city tour)
 - Start journey to first major destination
 
 **Arriving evening/night:**
+
 - Stay in Negombo (closest beach town, 10km)
 - Or book Colombo hotel near airport for convenience
 - Start fresh journey next morning
@@ -1005,24 +1103,28 @@ Sri Lanka has several domestic airports, but most tourists won't need them.
 ### Popular First-Destination Routes
 
 **Option 1: Negombo (Easiest)**
+
 - **Distance:** 10 km
 - **Time:** 15-25 minutes
 - **Why:** Beach rest, closest to airport
 - **Stay:** 1-2 nights to recover from flight
 
 **Option 2: Colombo City**
-- **Distance:** 35 km  
+
+- **Distance:** 35 km
 - **Time:** 45-90 minutes (traffic dependent)
 - **Why:** Explore capital, shopping, start tour
 - **Stay:** 1-2 nights
 
 **Option 3: Direct to Kandy**
+
 - **Distance:** 130 km
 - **Time:** 3-4 hours
 - **Why:** Skip Colombo, head to cultural heart
 - **Stay:** 2-3 nights
 
 **Option 4: Coastal Route (Galle)**
+
 - **Distance:** 150 km
 - **Time:** 2.5-3.5 hours
 - **Why:** Direct to beaches and colonial charm
@@ -1033,6 +1135,7 @@ Sri Lanka has several domestic airports, but most tourists won't need them.
 ### Sample Itineraries from Airport
 
 **Classic 2-Week Route:**
+
 - Day 1: Arrive → Negombo (rest)
 - Day 2-3: Colombo
 - Day 4-6: Cultural Triangle
@@ -1040,6 +1143,7 @@ Sri Lanka has several domestic airports, but most tourists won't need them.
 - Day 10-14: South coast beaches
 
 **Beach Focus Route:**
+
 - Day 1: Arrive → Negombo
 - Day 2-14: South coast beaches (Hikkaduwa, Galle, Mirissa, Tangalle)
 
@@ -1058,6 +1162,7 @@ Sri Lanka has several domestic airports, but most tourists won't need them.
 ### Is Colombo Airport tourist-friendly?
 
 **Yes, very tourist-friendly.** The airport features:
+
 - English signage throughout
 - Staff who speak English
 - Clear directional signs
@@ -1071,6 +1176,7 @@ First-time visitors navigate easily with minimal confusion.
 ### Do I need to print my Sri Lanka visa (ETA)?
 
 **Recommended but not always required.** Immigration can access your ETA electronically using your passport number, but having a printed copy:
+
 - Speeds up the process
 - Serves as backup if system issues occur
 - Some airlines check at departure
@@ -1109,6 +1215,7 @@ First-time visitors navigate easily with minimal confusion.
 ### What should I do if my luggage is lost?
 
 **Don't leave the airport.** Immediately go to your airline's baggage service desk (located near baggage claim). File a **missing baggage report** with:
+
 - Your baggage claim ticket
 - Flight details
 - Hotel/accommodation address (for delivery)
@@ -1119,6 +1226,7 @@ Get a reference number and keep all documentation. Most lost luggage is found wi
 ### Are there hotels near the airport?
 
 **Yes, many options** at various price points:
+
 - **Airport hotels:** Within airport complex ($50-100)
 - **Negombo:** 10km away, beach town ($20-80)
 - **Airport zone:** Surrounding area ($30-70)
@@ -1132,6 +1240,7 @@ You're now fully prepared for your arrival at Sri Lanka's airport! With this com
 ### Your Arrival Checklist
 
 **Before landing:**
+
 - [ ] Passport ready (6+ months validity)
 - [ ] ETA printed (2 copies + saved on phone)
 - [ ] Arrival card completed
@@ -1139,12 +1248,14 @@ You're now fully prepared for your arrival at Sri Lanka's airport! With this com
 - [ ] Phone charged and unlocked
 
 **Immediately after customs:**
+
 - [ ] Get SIM card ($7-10 - essential!)
 - [ ] Exchange small amount ($20-30)
 - [ ] Arrange transport (taxi/PickMe)
 - [ ] Connect to internet
 
 **Within first hour:**
+
 - [ ] Message family you've arrived safely
 - [ ] Verify hotel reservation
 - [ ] Check visa stamp dates
@@ -1172,7 +1283,7 @@ You're now fully prepared for your arrival at Sri Lanka's airport! With this com
 From the moment you step off the plane, Sri Lanka welcomes you with warm tropical air, friendly smiles, and the promise of unforgettable adventures. Your arrival is just the beginning of an incredible journey through:
 
 - 🏖️ **Paradise beaches** with golden sand
-- 🏔️ **Misty mountains** covered in tea plantations  
+- 🏔️ **Misty mountains** covered in tea plantations
 - 🐘 **Incredible wildlife** in pristine national parks
 - 🛕 **Ancient temples** with 2,000 years of history
 - 🍛 **Mouthwatering cuisine** bursting with flavor
@@ -1184,6 +1295,6 @@ You're prepared. You're informed. You're ready.
 
 ---
 
-*Last updated: January 7, 2026. Airport information and procedures subject to change. Always verify current information before travel.*
+_Last updated: January 7, 2026. Airport information and procedures subject to change. Always verify current information before travel._
 
 **Questions about arriving in Sri Lanka? Drop them in the comments, and we'll help you prepare!** 💬

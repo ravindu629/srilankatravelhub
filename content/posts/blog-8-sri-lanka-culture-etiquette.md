@@ -1,11 +1,19 @@
 ---
 title: "Sri Lankan Culture & Etiquette Guide 2026: Essential Do's and Don'ts Every Tourist Should Know"
 description: "Master Sri Lankan culture and etiquette before you go. Complete guide to customs, temple etiquette, dress codes, greetings, dining manners, and respectful travel. Avoid cultural mistakes and connect authentically with locals."
-date: "2025-01-11"
+date: "2026-01-11"
 author: "Sri Lanka Travel Team"
 category: "Culture"
 image: "https://images.unsplash.com/photo-1546603999-24fbcb911bee?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-tags: ["sri lanka culture", "travel etiquette", "cultural tips", "temple etiquette", "respectful travel", "local customs"]
+tags:
+  [
+    "sri lanka culture",
+    "travel etiquette",
+    "cultural tips",
+    "temple etiquette",
+    "respectful travel",
+    "local customs",
+  ]
 featured: true
 ---
 
@@ -86,6 +94,7 @@ The way you greet someone sets the tone for your entire interaction. Here's how 
 Pronounced "ah-yu-BOH-wan," this beautiful greeting literally means "may you live long." It's accompanied by placing your palms together in a prayer position (called añjali mudrā) near your chest and giving a slight bow.
 
 When to use it:
+
 - Entering temples
 - Meeting homestay families
 - Greeting elders
@@ -114,6 +123,7 @@ The right hand is considered clean, the left hand unclean (traditionally used fo
 If you're left-handed, do your best to use your right hand in social interactions, even if it feels awkward. Locals will appreciate the effort.
 
 **Personal space and touching:**
+
 - Personal space is respected; maintain comfortable distance
 - Avoid touching people's heads (considered the most sacred part of the body)
 - Pointing with feet is very disrespectful (feet are considered the lowest, least clean part)
@@ -121,6 +131,7 @@ If you're left-handed, do your best to use your right hand in social interaction
 - Opposite-sex public displays of affection are frowned upon
 
 **Age and hierarchy:**
+
 - Always show respect to elders—offer your seat, let them go first, listen attentively
 - Monks receive the highest social respect—stand when they enter a room, offer your seat, bow slightly
 - Teachers and parents receive similar deference
@@ -129,6 +140,7 @@ If you're left-handed, do your best to use your right hand in social interaction
 ### Meeting Locals: Conversation Do's and Don'ts
 
 **Good conversation topics:**
+
 - Cricket (national obsession!)
 - Travel experiences
 - Sri Lankan food
@@ -138,6 +150,7 @@ If you're left-handed, do your best to use your right hand in social interaction
 - Positive observations about Sri Lanka
 
 **Topics to approach carefully:**
+
 - Politics (can be sensitive)
 - The civil war (ended 2011, still sensitive)
 - Ethnic tensions (be respectful and listen more than speak)
@@ -145,6 +158,7 @@ If you're left-handed, do your best to use your right hand in social interaction
 - Economic challenges (sensitive topic)
 
 **Conversation style:**
+
 - Sri Lankans often ask what seem like personal questions (age, marital status, salary)—this isn't rude, it's how they contextualize you socially
 - Polite deflection is fine if uncomfortable: "In my country, we don't usually discuss that" said with a smile
 - Speak calmly and clearly; raising your voice is seen as aggressive
@@ -158,6 +172,7 @@ Clothing choices communicate respect (or lack thereof) more than almost anything
 ### Everyday Wear in Cities and Tourist Areas
 
 **Completely acceptable:**
+
 - Casual summer clothing
 - Shorts (knee-length or longer)
 - T-shirts and tank tops
@@ -166,6 +181,7 @@ Clothing choices communicate respect (or lack thereof) more than almost anything
 - Swimwear at beaches and pools
 
 **General guidelines:**
+
 - Lightweight, breathable fabrics (it's tropical!)
 - Cover from shoulders to at least mid-thigh in towns
 - Beaches are more relaxed but topless sunbathing is never acceptable
@@ -180,6 +196,7 @@ The heat and humidity mean you'll gravitate toward light, loose clothing anyway.
 This is where clothing matters most. Temples aren't tourist attractions—they're active places of worship. Dressing appropriately shows respect and is often required for entry.
 
 **Mandatory requirements:**
+
 - **Shoulders covered** (no tank tops, sleeveless shirts)
 - **Knees covered** (no shorts, short skirts)
 - **Remove shoes and hats** before entering temple grounds
@@ -188,6 +205,7 @@ This is where clothing matters most. Temples aren't tourist attractions—they'r
 - **No revealing necklines**
 
 **Practical solutions:**
+
 - Carry a light sarong in your bag (covers everything, weighs nothing, costs $3)
 - Lightweight long pants or maxi skirts work perfectly
 - Scarf can cover shoulders if wearing a tank top
@@ -195,6 +213,7 @@ This is where clothing matters most. Temples aren't tourist attractions—they'r
 - Socks are fine for walking on hot temple floors
 
 **What definitely won't work:**
+
 - Mini skirts or short shorts
 - Tank tops or crop tops
 - Sheer fabrics
@@ -202,6 +221,7 @@ This is where clothing matters most. Temples aren't tourist attractions—they'r
 - Anything overly tight or revealing
 
 **Special rules:**
+
 - Some temples require white clothing (Adam's Peak pilgrimage, certain ceremonies)
 - Remove jewelry at some very sacred sites
 - Women may not be allowed in certain areas during menstruation (ask respectfully)
@@ -209,6 +229,7 @@ This is where clothing matters most. Temples aren't tourist attractions—they'r
 ### Packing Strategy
 
 **The perfect temple outfit:**
+
 - Light, loose long pants or maxi skirt
 - Lightweight long-sleeve shirt or tunic
 - Sandals (easy on/off for temple shoe removal)
@@ -216,6 +237,7 @@ This is where clothing matters most. Temples aren't tourist attractions—they'r
 - Comfortable, modest, and heat-appropriate
 
 **Smart travel wardrobe:**
+
 - 2-3 temple-appropriate outfits
 - Casual clothes for cities
 - Beachwear for coast
@@ -242,6 +264,7 @@ Temples are the heart of Sri Lankan Buddhism. Missteps here cause genuine offens
 ### Before Entering
 
 **Shoe removal:**
+
 - Remove shoes and socks before entering temple grounds (not just buildings)
 - Look for shoe racks or piles of shoes at entrance
 - Some temples have shoe storage (small fee or donation)
@@ -249,11 +272,13 @@ Temples are the heart of Sri Lankan Buddhism. Missteps here cause genuine offens
 - Temple floors can be hot! Noon visits are tough on feet
 
 **Dress check:**
+
 - Ensure you're covered shoulders to knees
 - Remove hats and sunglasses
 - If uncertain, ask at entrance: "Is this appropriate?"
 
 **Entry fees:**
+
 - Major temples charge foreigners (often $5-15)
 - Small local temples are usually free
 - Donations always welcome
@@ -262,6 +287,7 @@ Temples are the heart of Sri Lankan Buddhism. Missteps here cause genuine offens
 ### Inside the Temple
 
 **Movement and positioning:**
+
 - **Always walk clockwise** around stupas and dagobas
 - Never turn your back to Buddha statues
 - Keep your head lower than Buddha statues (sit or bow)
@@ -269,6 +295,7 @@ Temples are the heart of Sri Lankan Buddhism. Missteps here cause genuine offens
 - Don't point at statues or sacred objects
 
 **Sitting properly:**
+
 - Sit with legs folded to the side or cross-legged
 - **Never point feet toward Buddha statues** (huge sign of disrespect)
 - Tuck feet under yourself
@@ -276,6 +303,7 @@ Temples are the heart of Sri Lankan Buddhism. Missteps here cause genuine offens
 - If uncomfortable sitting on floor, stand respectfully to the side
 
 **Photography rules:**
+
 - Ask permission before photographing
 - No flash inside temples (damages artwork)
 - No selfies with your back to Buddha (seen as extremely disrespectful)
@@ -284,6 +312,7 @@ Temples are the heart of Sri Lankan Buddhism. Missteps here cause genuine offens
 - Never photograph monks without permission
 
 **Monks and devotees:**
+
 - Don't interrupt people praying or making offerings
 - Speak quietly
 - Follow local cues—if everyone is silent, you should be too
@@ -293,6 +322,7 @@ Temples are the heart of Sri Lankan Buddhism. Missteps here cause genuine offens
 ### Common Temple Mistakes to Avoid
 
 **Never do these:**
+
 - Climb on religious monuments or statues
 - Touch Buddha statues (many are ancient, sacred, and fragile)
 - Turn back to Buddha for photos
@@ -302,12 +332,14 @@ Temples are the heart of Sri Lankan Buddhism. Missteps here cause genuine offens
 - Point with fingers (use open hand if indicating direction)
 
 **These show great disrespect and may result in:**
+
 - Being asked to leave
 - Confrontation with monks or devotees
 - Police involvement in serious cases
 - Deep offense to locals
 
 **When in doubt:**
+
 - Watch what locals do and follow their lead
 - Ask politely: "Is it okay if I...?"
 - Err on the side of more respect rather than less
@@ -316,12 +348,14 @@ Temples are the heart of Sri Lankan Buddhism. Missteps here cause genuine offens
 ### Special Temple Visits
 
 **Adam's Peak (Sri Pada) pilgrimage:**
+
 - Wear white clothing (traditional)
 - Extremely modest dress required
 - Bring warm layers (cold at summit)
 - Special respect needed—this is very sacred
 
 **Temple of the Tooth (Kandy):**
+
 - Very strict dress code enforced
 - Long queues during puja (prayer) times
 - Security checks at entrance
@@ -347,12 +381,14 @@ It's not about lacking utensils—it's about experiencing food fully. Sri Lankan
 7. Wash hands before and after eating
 
 **What NOT to do:**
+
 - Use left hand for eating
 - Get food past your knuckles (messy and considered improper)
 - Lick fingers while eating
 - Use whole hand—just fingertips
 
 **When to use utensils:**
+
 - Utensils are always available in restaurants—feel free to ask
 - Kottu, hoppers, and string hoppers are often eaten with hands too
 - Western food comes with silverware
@@ -363,6 +399,7 @@ It's not about lacking utensils—it's about experiencing food fully. Sri Lankan
 **If invited to someone's home:**
 
 **Bring a small gift:**
+
 - Fruit is perfect
 - Sweets from your country
 - Flowers (acceptable)
@@ -377,6 +414,7 @@ It's not about lacking utensils—it's about experiencing food fully. Sri Lankan
 **Wash hands** before eating (host will offer)
 
 **Accept food graciously:**
+
 - Refusing food can seem rude
 - Try everything offered
 - Hosts will insist you eat more—this is hospitality, not pressure
@@ -384,6 +422,7 @@ It's not about lacking utensils—it's about experiencing food fully. Sri Lankan
 - Leave a little food on your plate to show you were given generous portions
 
 **Compliment the food:**
+
 - "This is delicious" goes a long way
 - Ask about ingredients or recipes (shows genuine interest)
 - Thank your hosts multiple times
@@ -391,23 +430,27 @@ It's not about lacking utensils—it's about experiencing food fully. Sri Lankan
 ### Restaurant Dining
 
 **Calling the waiter:**
+
 - Raise your hand and make eye contact
 - "Excuse me" works fine
 - Snapping fingers is rude
 
 **Ordering:**
+
 - Ask about spice level: "Can you make it less spicy?"
 - Sri Lankan food is genuinely spicy—start mild, work up
 - "Plain rice" and "white curry" are mild options
 - Don't waste food—order smaller portions
 
 **Paying:**
+
 - Bills arrive when requested
 - Service charge is often included (check bill)
 - Additional tip 5-10% if service was excellent
 - Cash preferred over card in small restaurants
 
 **Rice and curry etiquette:**
+
 - Unlimited rice and curry refills are normal at local restaurants
 - Servers will offer—accepting is fine
 - Don't finish everything if you're full (some remains shows portion was generous)
@@ -417,12 +460,14 @@ It's not about lacking utensils—it's about experiencing food fully. Sri Lankan
 **Sri Lankan food is SPICY.** This isn't an exaggeration. Here's how to cope:
 
 **Prevention:**
+
 - Request "less chili" when ordering
 - Start with kottu (less spicy), progress to curries
 - Plain rice helps dilute spice
 - Coconut milk curries are often milder
 
 **During the fire:**
+
 - Drink milk, eat yogurt, or have plain rice
 - Water makes it worse!
 - Bananas help
@@ -430,6 +475,7 @@ It's not about lacking utensils—it's about experiencing food fully. Sri Lankan
 - Bread absorbs some heat
 
 **Don't:**
+
 - Try to prove yourself by ordering "extra spicy"
 - Ignore your heat tolerance
 - Be embarrassed to ask for mild
@@ -452,11 +498,13 @@ How you behave in public spaces reflects on all foreign visitors. Be the travele
 ### Public Displays of Affection
 
 **What's acceptable:**
+
 - Holding hands (barely, and mainly for married couples)
 - Walking side by side
 - Sitting next to each other
 
 **What's not acceptable:**
+
 - Kissing (even pecks on cheek)
 - Hugging (except brief greetings)
 - Any intimate touching
@@ -471,18 +519,21 @@ Young couples in Colombo may push these boundaries, but tourists should err on t
 ### Voice and Demeanor
 
 **Keep your voice down:**
+
 - Loud talking stands out negatively
 - Laughter is fine, but cackling disturbs others
 - Phone conversations should be quiet
 - Restaurant conversations at reasonable volume
 
 **Patience is a virtue:**
+
 - Things move slower in Sri Lanka
 - Getting angry or aggressive is very poorly received
 - Calm persistence works better than demanding behavior
 - "No problem" is a common phrase—embrace this attitude
 
 **If something goes wrong:**
+
 - Stay calm and polite
 - Explain the issue clearly
 - Give people a chance to fix it
@@ -492,12 +543,14 @@ Young couples in Colombo may push these boundaries, but tourists should err on t
 ### Queue Etiquette
 
 **The reality:**
+
 - Organized queues aren't always standard
 - Bus stops can be chaotic
 - Shop counters may have unclear queue systems
 - Some locations have clear queues (banks, ticket counters)
 
 **What to do:**
+
 - If there's a queue, honor it
 - If unclear, ask: "Are you in line?"
 - Don't push or shove
@@ -507,6 +560,7 @@ Young couples in Colombo may push these boundaries, but tourists should err on t
 ### LGBTQ+ Travelers
 
 **The situation:**
+
 - Homosexuality is technically illegal (colonial-era law, rarely enforced)
 - Social attitudes are conservative
 - Public affection between same-sex couples will attract attention
@@ -521,6 +575,7 @@ Your camera can open doors or shut them. Here's how to use it responsibly.
 ### Photographing People
 
 **Always ask permission first:**
+
 - Point at camera, raise eyebrows questioningly
 - Learn "Can I take photo?" in Sinhala: "Mata photo ekak araganna puluwan da?"
 - Most people are happy to pose
@@ -528,6 +583,7 @@ Your camera can open doors or shut them. Here's how to use it responsibly.
 - Children: ask parents first
 
 **When photos aren't welcome:**
+
 - People bathing or washing
 - Inside private homes (unless invited)
 - People in difficult circumstances (poverty tourism is exploitative)
@@ -535,6 +591,7 @@ Your camera can open doors or shut them. Here's how to use it responsibly.
 - Funerals or serious ceremonies
 
 **Respectful approach:**
+
 - Show them the photo afterward
 - Delete if they're unhappy
 - Offer to send photos (get WhatsApp number)
@@ -544,6 +601,7 @@ Your camera can open doors or shut them. Here's how to use it responsibly.
 ### Religious and Sacred Sites
 
 **Temples:**
+
 - Ask permission at entrance
 - No flash photography
 - No photos of Buddha's backside
@@ -551,12 +609,14 @@ Your camera can open doors or shut them. Here's how to use it responsibly.
 - Respect "No Photo" signs absolutely
 
 **Monks:**
+
 - Most monks don't mind photos
 - Always ask first
 - Don't interrupt meditation or ceremonies
 - If monk speaks to you, conversation first, photos later
 
 **Religious ceremonies:**
+
 - Observe from respectful distance
 - Don't use flash
 - Don't block participants
@@ -565,6 +625,7 @@ Your camera can open doors or shut them. Here's how to use it responsibly.
 ### Sensitive Photography
 
 **Never photograph:**
+
 - Military installations or personnel
 - Police activities
 - Airports and harbors (security areas)
@@ -572,6 +633,7 @@ Your camera can open doors or shut them. Here's how to use it responsibly.
 - Anything marked "Photography Prohibited"
 
 **These can result in:**
+
 - Confiscation of camera/phone
 - Deletion of photos
 - Detention for questioning
@@ -582,12 +644,14 @@ Your camera can open doors or shut them. Here's how to use it responsibly.
 ### Ethical Considerations
 
 **Avoid:**
+
 - Poverty tourism (photographing suffering for shock value)
 - Staged photos that perpetuate stereotypes
 - Photos that could endanger people
 - Exploitation of vulnerable communities
 
 **Instead:**
+
 - Photograph landscapes, architecture, nature
 - Ask people about their lives before photographing them
 - Show genuine interest beyond the photo opportunity
@@ -600,6 +664,7 @@ Sri Lanka's incredible biodiversity deserves respect and protection.
 ### Safari Etiquette
 
 **During safaris:**
+
 - **Stay in the vehicle** unless guide says otherwise
 - **Maintain safe distances** from animals
 - **Quiet voices**—loud noises stress wildlife
@@ -608,12 +673,14 @@ Sri Lanka's incredible biodiversity deserves respect and protection.
 - **No littering** in parks
 
 **Photography guidelines:**
+
 - No flash photography (startles animals)
 - Don't ask driver to chase animals for photos
 - Patience is rewarded with better sightings
 - Respect park closing times
 
 **Why it matters:**
+
 - Animals' welfare comes first
 - Habituation to humans is dangerous for wildlife
 - Your behavior affects future tourists' experiences
@@ -622,18 +689,21 @@ Sri Lanka's incredible biodiversity deserves respect and protection.
 ### Beach and Ocean Respect
 
 **Turtle conservation:**
+
 - Don't touch or ride sea turtles
 - Use certified turtle hatcheries only
 - Don't disturb nesting sites
 - Follow Conservation guidelines
 
 **Coral reefs:**
+
 - Don't stand on coral
 - Don't collect shells or coral
 - Use reef-safe sunscreen
 - Snorkel/dive responsibly
 
 **General ocean etiquette:**
+
 - No littering (especially plastic)
 - Respect local fishing activities
 - Follow beach safety rules
@@ -642,12 +712,14 @@ Sri Lanka's incredible biodiversity deserves respect and protection.
 ### Plant and Environment
 
 **Don't:**
+
 - Pick flowers at temples (buy from vendors)
 - Damage trees or plants
 - Litter anywhere
 - Take "souvenirs" from nature
 
 **Do:**
+
 - Use reef paths where provided
 - Carry trash until you find bins
 - Support eco-friendly businesses
@@ -662,21 +734,25 @@ English gets you far, but a few local words open hearts.
 ### Essential Sinhala Phrases
 
 **Greetings:**
+
 - Hello: Ayubowan (ah-yu-BOH-wan)
 - Goodbye: Ayubowan giyā (same word!)
 - How are you?: Kohomada? (ko-ho-MA-da)
 
 **Polite essentials:**
+
 - Please: Karunakara (ka-ru-na-KA-ra)
 - Thank you: Bohoma istuti (BOH-homa is-TU-ti)
 - Sorry: Samavenna (sa-ma-VEN-na)
 
 **Basics:**
+
 - Yes: Ow (ow)
 - No: Na or Naha (na / na-HA)
 - Okay: Hari (ha-RI)
 
 **Useful phrases:**
+
 - I don't understand: Mata therenne naha (MA-ta teh-REN-ne na-HA)
 - Where is...?: ...koheda? (ko-HEH-da)
 - How much?: Keeyada? (kee-YA-da)
@@ -686,6 +762,7 @@ English gets you far, but a few local words open hearts.
 ### Communication Tips
 
 **English proficiency:**
+
 - Tourist areas: High
 - Cities: Good
 - Rural areas: Variable
@@ -693,6 +770,7 @@ English gets you far, but a few local words open hearts.
 - Young people: Better English
 
 **When language fails:**
+
 - Use Google Translate
 - Point at phrasebook
 - Draw pictures
@@ -701,6 +779,7 @@ English gets you far, but a few local words open hearts.
 - Someone who speaks English usually appears
 
 **Cultural communication notes:**
+
 - Sri Lankans may say "yes" to avoid disappointing you even when they mean "maybe"
 - Head wobble means various things (yes, understanding, acknowledgment)
 - Silence isn't necessarily agreement
@@ -713,6 +792,7 @@ Tipping customs sit between mandatory Western tipping and no-tipping cultures.
 ### When and How Much to Tip
 
 **Restaurants:**
+
 - Check if 10% service charge included (usually is)
 - If included: no additional tip needed
 - If not: 5-10% for good service
@@ -720,6 +800,7 @@ Tipping customs sit between mandatory Western tipping and no-tipping cultures.
 - Leave cash on table or give to server
 
 **Guides and drivers:**
+
 - Safari guides: 500-1,000 LKR per person per half-day
 - Full-day tour guides: 1,000-2,000 LKR
 - Multi-day drivers: 1,500-2,500 LKR per day
@@ -727,17 +808,20 @@ Tipping customs sit between mandatory Western tipping and no-tipping cultures.
 - Cash tips preferred
 
 **Hotels:**
+
 - Bellhop: 100-200 LKR per bag
 - Room service: 100-200 LKR
 - Housekeeping: 200-300 LKR per day (leave daily)
 - Concierge: 200-500 LKR for exceptional help
 
 **Tuk-tuk drivers:**
+
 - Usually no tip expected (especially if metered or PickMe)
 - Round up fare if helpful or friendly
 - 50-100 LKR for going above and beyond
 
 **When NOT to tip:**
+
 - Shops and stores
 - Street vendors
 - Bus drivers
@@ -747,6 +831,7 @@ Tipping customs sit between mandatory Western tipping and no-tipping cultures.
 ### Bargaining Culture
 
 **Where bargaining is expected:**
+
 - Markets
 - Street vendors
 - Tuk-tuks (without meter)
@@ -754,6 +839,7 @@ Tipping customs sit between mandatory Western tipping and no-tipping cultures.
 - Some guesthouses (not international chains)
 
 **Where NOT to bargain:**
+
 - Restaurants
 - Hotels (established rates)
 - Chain stores
@@ -761,6 +847,7 @@ Tipping customs sit between mandatory Western tipping and no-tipping cultures.
 - Medical services
 
 **How to bargain politely:**
+
 - Smile and be friendly
 - Ask "What's your best price?"
 - Offer 50-70% of asking price
@@ -770,6 +857,7 @@ Tipping customs sit between mandatory Western tipping and no-tipping cultures.
 - Remember: we're talking small amounts
 
 **When to stop:**
+
 - Price is already fair
 - Item is handicraft (someone's livelihood)
 - Vendor genuinely won't go lower
@@ -782,6 +870,7 @@ Tipping customs sit between mandatory Western tipping and no-tipping cultures.
 ### Definite DO's ✅
 
 **Social interaction:**
+
 - ✅ Greet with "Ayubowan" and a slight bow
 - ✅ Use your right hand for everything
 - ✅ Show respect to elders and monks
@@ -794,6 +883,7 @@ Tipping customs sit between mandatory Western tipping and no-tipping cultures.
 - ✅ Learn basic Sinhala phrases
 
 **Behavior:**
+
 - ✅ Speak calmly and politely
 - ✅ Respect religious practices
 - ✅ Follow local customs
@@ -808,6 +898,7 @@ Tipping customs sit between mandatory Western tipping and no-tipping cultures.
 ### Absolute DON'Ts ❌
 
 **Serious offenses:**
+
 - ❌ Disrespect Buddha images or temples
 - ❌ Touch people's heads
 - ❌ Point feet at people or Buddha statues
@@ -820,6 +911,7 @@ Tipping customs sit between mandatory Western tipping and no-tipping cultures.
 - ❌ Litter or damage the environment
 
 **Rude behavior:**
+
 - ❌ Raise your voice or show anger
 - ❌ Use your left hand for social interactions
 - ❌ Refuse hospitality aggressively
@@ -894,6 +986,7 @@ Sri Lanka reveals itself differently to respectful travelers. You'll be invited 
 ### Your Cultural Preparation Checklist
 
 **Before you go:**
+
 - [ ] Read this guide thoroughly
 - [ ] Pack temple-appropriate clothing
 - [ ] Learn basic Sinhala phrases
@@ -904,6 +997,7 @@ Sri Lanka reveals itself differently to respectful travelers. You'll be invited 
 - [ ] Set cultural awareness intentions
 
 **During your trip:**
+
 - [ ] Observe and follow local cues
 - [ ] Ask when uncertain
 - [ ] Accept corrections graciously
@@ -914,6 +1008,7 @@ Sri Lanka reveals itself differently to respectful travelers. You'll be invited 
 - [ ] Honor all customs you encounter
 
 **Remember:**
+
 - Mistakes happen—apologize and learn
 - Effort matters more than perfection
 - Respect opens all doors
@@ -926,6 +1021,7 @@ Sri Lanka reveals itself differently to respectful travelers. You'll be invited 
 ### Complete Your Sri Lanka Preparation
 
 **Essential reading:**
+
 - [Ultimate Sri Lanka Travel Guide 2026](https://www.srilankatravelhub.com/blog/blog-1-ultimate-sri-lanka-travel-guide-2026) - Complete planning
 - [Sri Lanka Visa Guide 2026](https://www.srilankatravelhub.com/blog/blog-5-sri-lanka-visa-guide) - Get your documents ready
 - [Sri Lanka Airports & Arrival Guide 2026](https://www.srilankatravelhub.com/blog/blog-6-sri-lanka-airports-guide) - Smooth arrival
@@ -951,6 +1047,6 @@ Sri Lanka is ready to welcome you with open arms, warm smiles, spicy curries, an
 
 ---
 
-*Last updated: January 11, 2026. Cultural practices evolve; approach each situation with awareness and respect.*
+_Last updated: January 11, 2026. Cultural practices evolve; approach each situation with awareness and respect._
 
 **Questions about Sri Lankan culture and etiquette? Ask in the comments—we're here to help you prepare!** 💬

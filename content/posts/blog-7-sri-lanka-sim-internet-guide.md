@@ -1,11 +1,19 @@
 ---
 title: "Sri Lanka SIM Card & Internet Guide 2026: Stay Connected from Airport to Beach (Complete Tourist Guide)"
 description: "Complete guide to internet, SIM cards, and mobile data in Sri Lanka. Learn which provider to choose, where to buy, data packages, coverage, costs, and how to stay connected throughout your trip."
-date: "2025-01-09"
+date: "2026-01-09"
 author: "Sri Lanka Travel Team"
 category: "Travel Tips"
 image: "https://images.unsplash.com/photo-1610168388710-a8cfbafe6c30?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-tags: ["sri lanka sim card", "mobile internet", "data plans", "connectivity", "travel tips", "technology"]
+tags:
+  [
+    "sri lanka sim card",
+    "mobile internet",
+    "data plans",
+    "connectivity",
+    "travel tips",
+    "technology",
+  ]
 featured: true
 ---
 
@@ -26,6 +34,7 @@ Before diving into the "how," let's establish the "why"—because some travelers
 ### Essential Uses for Your Sri Lankan SIM
 
 **Navigation (Critical):**
+
 - Google Maps for driving/walking directions
 - Finding hidden waterfalls and viewpoints
 - Locating your accommodation in maze-like neighborhoods
@@ -33,6 +42,7 @@ Before diving into the "how," let's establish the "why"—because some travelers
 - Real-time traffic updates
 
 **Transportation (Daily Need):**
+
 - PickMe app for affordable rides (Sri Lanka's Uber)
 - Uber in Colombo area
 - Bus and train schedules
@@ -40,6 +50,7 @@ Before diving into the "how," let's establish the "why"—because some travelers
 - Confirming pickup locations
 
 **Communication (Stay Connected):**
+
 - WhatsApp with hotels, tour operators, drivers
 - Calling local phone numbers (included in packages)
 - Emergency contacts
@@ -47,6 +58,7 @@ Before diving into the "how," let's establish the "why"—because some travelers
 - Contacting family back home
 
 **Booking & Research (Convenience):**
+
 - Last-minute hotel reservations
 - Tour and activity bookings
 - Restaurant reservations
@@ -54,6 +66,7 @@ Before diving into the "how," let's establish the "why"—because some travelers
 - Price comparisons
 
 **Social & Entertainment:**
+
 - Sharing your adventure on Instagram, Facebook, TikTok
 - Video calls with loved ones
 - Streaming music during long journeys
@@ -61,6 +74,7 @@ Before diving into the "how," let's establish the "why"—because some travelers
 - Staying updated on news
 
 **Safety & Emergencies:**
+
 - Emergency service access (119 police, 110 ambulance)
 - Embassy contact information
 - Weather warnings and alerts
@@ -72,6 +86,7 @@ Before diving into the "how," let's establish the "why"—because some travelers
 ### What Happens Without a Local SIM?
 
 **Without mobile data, you'll:**
+
 - Get lost frequently (Sri Lankan addresses are confusing)
 - Struggle to book rides (tuk-tuk negotiations are harder)
 - Miss opportunities (can't research nearby attractions)
@@ -81,6 +96,7 @@ Before diving into the "how," let's establish the "why"—because some travelers
 - Have difficulty in emergencies
 
 **Cost comparison:**
+
 - Local SIM with 20GB data: $7-10
 - International roaming (per day): $10-15
 - Stress and wasted time: Priceless
@@ -92,6 +108,7 @@ Before diving into the "how," let's establish the "why"—because some travelers
 ### Overall Assessment: Excellent for Tourism
 
 **Sri Lanka's internet infrastructure:**
+
 - 4G LTE widely available
 - Fast speeds in cities (10-30 Mbps)
 - Reliable coverage in tourist areas
@@ -99,6 +116,7 @@ Before diving into the "how," let's establish the "why"—because some travelers
 - Improving rural connectivity
 
 **Comparison with other countries:**
+
 - Better than India, Cambodia, Indonesia
 - Similar to Thailand, Malaysia
 - More affordable than Singapore, Japan
@@ -106,6 +124,7 @@ Before diving into the "how," let's establish the "why"—because some travelers
 ### Network Coverage by Region
 
 **Excellent Coverage (4G LTE, Fast):**
+
 - **Colombo & suburbs:** Perfect coverage, fastest speeds
 - **Major cities:** Kandy, Galle, Negombo, Jaffna—excellent
 - **Beach towns:** Mirissa, Hikkaduwa, Unawatuna, Arugam Bay—very good
@@ -114,6 +133,7 @@ Before diving into the "how," let's establish the "why"—because some travelers
 - **Major highways:** All main roads well-covered
 
 **Good Coverage (4G, Occasional 3G):**
+
 - **National parks:** Variable (Dialog best)
   - Yala: Good near entrance, spotty inside
   - Udawalawe: Decent coverage
@@ -123,6 +143,7 @@ Before diving into the "how," let's establish the "why"—because some travelers
 - **Small villages:** Usually covered but slower speeds
 
 **Limited Coverage (3G or None):**
+
 - **Deep jungle areas:** Inside dense national parks
 - **Very remote villages:** Far from main roads
 - **Some mountain peaks:** High altitude isolated spots
@@ -132,6 +153,7 @@ Before diving into the "how," let's establish the "why"—because some travelers
 ### Speed & Performance
 
 **Typical 4G speeds:**
+
 - **Urban areas:** 15-30 Mbps download
 - **Tourist towns:** 10-20 Mbps download
 - **Rural areas:** 5-15 Mbps download
@@ -140,11 +162,13 @@ Before diving into the "how," let's establish the "why"—because some travelers
 **What you can do with these speeds:**
 
 **High-quality streaming (15+ Mbps):**
+
 - HD video calls
 - 1080p YouTube streaming
 - High-res photo uploads
 
 **Standard usage (5-15 Mbps):**
+
 - SD video streaming
 - Fast web browsing
 - Social media scrolling
@@ -152,6 +176,7 @@ Before diving into the "how," let's establish the "why"—because some travelers
 - Music streaming
 
 **Basic usage (2-5 Mbps):**
+
 - Google Maps navigation
 - Messaging (WhatsApp, Telegram)
 - Email checking
@@ -170,6 +195,7 @@ Three major providers dominate Sri Lanka's mobile market. Here's the complete br
 **Market position:** #1 provider, largest network
 
 **Why tourists choose Dialog:**
+
 - **Best coverage:** Nationwide, including remote areas
 - **Fastest 4G:** Consistently high speeds
 - **Network reliability:** Fewest dropped connections
@@ -178,6 +204,7 @@ Three major providers dominate Sri Lanka's mobile market. Here's the complete br
 - **Airport availability:** 24/7 counter at CMB airport
 
 **Coverage highlights:**
+
 - 95%+ population coverage
 - Best in national parks (Yala, Udawalawe)
 - Excellent in hill country
@@ -185,6 +212,7 @@ Three major providers dominate Sri Lanka's mobile market. Here's the complete br
 - Good in remote beaches
 
 **Typical tourist packages (2026):**
+
 - 20GB + calls: 1,500 LKR (~$5)
 - 40GB + calls: 2,500 LKR (~$8)
 - 50GB + calls: 3,000 LKR (~$10)
@@ -210,6 +238,7 @@ Three major providers dominate Sri Lanka's mobile market. Here's the complete br
 **Market position:** #2 provider, state-owned
 
 **Why tourists choose Mobitel:**
+
 - **Good coverage:** Excellent in cities and tourist areas
 - **Competitive pricing:** Similar to Dialog
 - **Reliable service:** Consistent performance
@@ -217,6 +246,7 @@ Three major providers dominate Sri Lanka's mobile market. Here's the complete br
 - **Generous data:** Often more GB for same price
 
 **Coverage highlights:**
+
 - Excellent urban coverage
 - Very good in major tourist destinations
 - Good on main highways
@@ -224,6 +254,7 @@ Three major providers dominate Sri Lanka's mobile market. Here's the complete br
 - Decent in national parks
 
 **Typical tourist packages (2026):**
+
 - 25GB + calls: 1,400 LKR (~$5)
 - 45GB + calls: 2,400 LKR (~$8)
 - 60GB + calls: 2,900 LKR (~$10)
@@ -249,12 +280,14 @@ Three major providers dominate Sri Lanka's mobile market. Here's the complete br
 **Market position:** #3 provider, budget-focused
 
 **Why tourists choose Airtel:**
+
 - **Cheapest option:** Lowest prices
 - **Adequate coverage:** Good in main areas
 - **Simple packages:** Easy to understand
 - **Airport availability:** Counter at CMB
 
 **Coverage highlights:**
+
 - Good in Colombo and major cities
 - Decent in popular beach towns
 - Moderate in hill country
@@ -262,6 +295,7 @@ Three major providers dominate Sri Lanka's mobile market. Here's the complete br
 - Weak in national parks
 
 **Typical tourist packages (2026):**
+
 - 20GB + calls: 1,200 LKR (~$4)
 - 40GB + calls: 2,000 LKR (~$7)
 - 60GB + calls: 2,500 LKR (~$8)
@@ -363,6 +397,7 @@ Three major providers dominate Sri Lanka's mobile market. Here's the complete br
 **Timing:** Immediately after baggage claim and customs clearance
 
 **Why airport purchase is best:**
+
 - Open 24/7 (no matter when you land)
 - Staff speak English fluently
 - Instant activation (ready in 5 minutes)
@@ -371,6 +406,7 @@ Three major providers dominate Sri Lanka's mobile market. Here's the complete br
 - Start using immediately for airport transport
 
 **Airport SIM counter locations:**
+
 - **Right side of arrivals hall** (clearly visible)
 - **Three counters:** Dialog, Mobitel, Airtel
 - **Look for:** Bright signage with provider logos
@@ -379,16 +415,19 @@ Three major providers dominate Sri Lanka's mobile market. Here's the complete br
 **Step-by-step purchase process:**
 
 **Step 1: Choose your provider** (2 minutes)
+
 - Approach Dialog counter (recommended)
 - Or Mobitel if Dialog has long queue
 - Avoid Airtel unless extreme budget
 
 **Step 2: Present documents** (1 minute)
+
 - Show passport (required for registration)
 - Show ETA/visa (sometimes requested)
 - No photos needed, just passport
 
 **Step 3: Select package** (2 minutes)
+
 - Tell staff: "Tourist data package please"
 - Choose based on stay length:
   - 1-2 weeks: 20-30GB package
@@ -398,12 +437,14 @@ Three major providers dominate Sri Lanka's mobile market. Here's the complete br
 - All packages include local calls
 
 **Step 4: Payment** (1 minute)
+
 - Cash preferred (USD or LKR)
 - Credit/debit cards usually accepted
 - Pay upfront for package
 - Get receipt
 
 **Step 5: Activation** (3-5 minutes)
+
 - Staff opens your SIM package
 - Inserts SIM in your phone (or you do it)
 - SIM size: Comes with all sizes (nano, micro, standard)
@@ -413,6 +454,7 @@ Three major providers dominate Sri Lanka's mobile market. Here's the complete br
 - Explains how to check balance
 
 **Step 6: Setup complete**
+
 - Save your new number immediately
 - Take photo of SIM card packaging (has number)
 - Keep receipt
@@ -422,12 +464,14 @@ Three major providers dominate Sri Lanka's mobile market. Here's the complete br
 **Total time:** 10-15 minutes (including queue)
 
 **Costs at airport (2026 prices):**
+
 - Dialog 20GB: 1,500 LKR (~$5)
 - Dialog 40GB: 2,500 LKR (~$8)
 - Mobitel 25GB: 1,400 LKR (~$5)
 - Airtel 20GB: 1,200 LKR (~$4)
 
 **Pro tips for airport purchase:**
+
 - **Go immediately** after customs (before currency exchange or transport booking)
 - **Have passport ready** (speeds up process)
 - **Keep original SIM** safe (you'll need it back home)
@@ -445,21 +489,25 @@ Three major providers dominate Sri Lanka's mobile market. Here's the complete br
 **Where to buy:**
 
 **Official operator stores:**
+
 - **Dialog:** Shops in all major cities, malls
 - **Mobitel:** Dedicated stores nationwide
 - **Airtel:** Shops in urban areas
 
 **Authorized dealers:**
+
 - Small shops with operator signage
 - Convenience stores
 - Mobile phone shops
 
 **How to find:**
+
 - Ask hotel reception
 - Look for provider logos on shops
 - Google Maps search "Dialog shop near me"
 
 **Purchase process:**
+
 1. Bring passport (required)
 2. Choose package
 3. Pay (cash or card)
@@ -467,6 +515,7 @@ Three major providers dominate Sri Lanka's mobile market. Here's the complete br
 5. May need to return to collect activated SIM
 
 **Disadvantages:**
+
 - Takes longer to activate
 - Language barriers possible
 - Must find shops (wastes travel time)
@@ -480,17 +529,20 @@ Three major providers dominate Sri Lanka's mobile market. Here's the complete br
 ### Option 3: eSIM (Modern Alternative)
 
 **What is eSIM?**
+
 - Digital SIM, no physical card
 - Downloaded/activated remotely
 - Phone must support eSIM
 
 **eSIM providers for Sri Lanka:**
+
 - Airalo
 - Holafly
 - GigSky
 - eSIM Plus
 
 **How it works:**
+
 1. Purchase online before travel
 2. Receive QR code via email
 3. Scan code on phone
@@ -499,12 +551,14 @@ Three major providers dominate Sri Lanka's mobile market. Here's the complete br
 6. Use data
 
 **Costs (typically more expensive):**
+
 - 1GB - 7 days: $5-8
 - 3GB - 30 days: $15-20
 - 5GB - 30 days: $25-30
 - 10GB - 30 days: $40-50
 
 **Comparison with local SIM:**
+
 - eSIM 10GB: $40-50
 - Dialog SIM 40GB: $8
 - **Local SIM is 5x better value!**
@@ -524,6 +578,7 @@ Three major providers dominate Sri Lanka's mobile market. Here's the complete br
 ❌ Harder to top up
 
 **eSIM recommendation:**
+
 - **Use if:** Business traveler, 2-3 day trip, phone compatibility important
 - **Skip if:** Budget traveler, 1+ week trip, need best value
 
@@ -587,6 +642,7 @@ Understanding package options helps you choose the right amount of data.
 </div>
 
 **All packages include:**
+
 - Unlimited local calls
 - SMS included
 - 4G LTE data
@@ -595,6 +651,7 @@ Understanding package options helps you choose the right amount of data.
 ### How Much Data Do You Really Need?
 
 **Light user (10-20GB):**
+
 - Basic navigation
 - Messaging apps
 - Occasional browsing
@@ -602,6 +659,7 @@ Understanding package options helps you choose the right amount of data.
 - **Good for:** Short trips, WiFi available at accommodation
 
 **Moderate user (30-40GB):**
+
 - Regular Google Maps
 - Frequent social media
 - Video calls occasionally
@@ -609,6 +667,7 @@ Understanding package options helps you choose the right amount of data.
 - **Good for:** 2-week trips, average usage
 
 **Heavy user (50GB+):**
+
 - Constant navigation
 - Heavy social media
 - Regular video calls
@@ -620,6 +679,7 @@ Understanding package options helps you choose the right amount of data.
 ### Data Usage Examples
 
 **What uses how much:**
+
 - Google Maps (navigation): 5-10MB per hour
 - WhatsApp messages: 1MB per 100 messages
 - Instagram scrolling: 100-200MB per hour
@@ -630,11 +690,13 @@ Understanding package options helps you choose the right amount of data.
 - Email checking: 1-5MB per session
 
 **Typical daily usage:**
+
 - Light: 500MB - 1GB per day
 - Moderate: 1-2GB per day
 - Heavy: 2-4GB per day
 
 **For 2-week trip:**
+
 - Light user: 10-15GB total
 - Moderate user: 20-30GB total
 - Heavy user: 35-50GB total
@@ -646,18 +708,21 @@ Understanding package options helps you choose the right amount of data.
 **If you run out mid-trip:**
 
 **Method 1: Using phone**
+
 - Dial provider's top-up code
 - Dialog: #678#
 - Follow prompts
 - Purchase additional data
 
 **Method 2: Operator app**
+
 - Download Dialog app
 - Login with number
 - Purchase data package
 - Instant activation
 
 **Method 3: Reload cards**
+
 - Buy at any shop with provider logo
 - Scratch card for code
 - Dial top-up number
@@ -665,11 +730,13 @@ Understanding package options helps you choose the right amount of data.
 - Convert credit to data
 
 **Method 4: Visit operator store**
+
 - Show staff your SIM
 - Request data top-up
 - Pay and activate
 
 **Top-up packages (approximate):**
+
 - 5GB: 500-700 LKR
 - 10GB: 900-1,200 LKR
 - 20GB: 1,500-2,000 LKR
@@ -677,17 +744,20 @@ Understanding package options helps you choose the right amount of data.
 ### Checking Your Data Balance
 
 **Dialog:**
+
 - Dial: #456#
 - Press call
 - Balance appears on screen
 
 **Mobitel:**
+
 - Dial: #177#
 - Press call
 - Balance shown
 
 **Airtel:**
-- Dial: *125#
+
+- Dial: \*125#
 - Balance displayed
 
 **Alternative:** Download provider's app for detailed usage stats.
@@ -699,6 +769,7 @@ While mobile data is recommended, WiFi is widely available as backup or suppleme
 ### Where You'll Find WiFi
 
 **Hotels & Guesthouses (95% availability):**
+
 - Free WiFi standard in most accommodations
 - Speed varies: Budget places slower, luxury faster
 - Usually good enough for browsing, messaging
@@ -706,6 +777,7 @@ While mobile data is recommended, WiFi is widely available as backup or suppleme
 - Password protected
 
 **Cafés & Restaurants (Common in cities):**
+
 - Most tourist-oriented cafés offer free WiFi
 - Popular in Colombo, Galle, Kandy, Ella
 - Usually requires purchase
@@ -713,17 +785,20 @@ While mobile data is recommended, WiFi is widely available as backup or suppleme
 - Great for laptop work
 
 **Malls & Shopping Centers:**
+
 - Free WiFi in major malls
 - Available in Colombo, Kandy, major cities
 - Good speeds
 - Often requires registration
 
 **Airports:**
+
 - Free at CMB airport (first hour free, then paid)
 - Decent speeds
 - Useful for arrival/departure
 
 **Public WiFi (Limited):**
+
 - Some bus/train stations (unreliable)
 - Tourist information centers
 - Rare in most areas
@@ -732,18 +807,21 @@ While mobile data is recommended, WiFi is widely available as backup or suppleme
 ### WiFi Quality & Reliability
 
 **Good WiFi (reliable):**
+
 - Mid-range and luxury hotels
 - Established cafés
 - Modern co-working spaces
 - International chain hotels
 
 **Moderate WiFi (okay):**
+
 - Budget hotels
 - Local restaurants
 - Small guesthouses
 - Beach huts
 
 **Poor/No WiFi (don't rely on):**
+
 - Remote guesthouses
 - Very budget accommodations
 - National park lodges
@@ -755,6 +833,7 @@ While mobile data is recommended, WiFi is widely available as backup or suppleme
 ### WiFi Safety Tips
 
 **Secure practices:**
+
 - ✅ Use VPN for banking/sensitive data
 - ✅ Verify network name with staff
 - ✅ Avoid "Free WiFi" networks (potential scams)
@@ -763,6 +842,7 @@ While mobile data is recommended, WiFi is widely available as backup or suppleme
 - ✅ Forget network after use
 
 **What NOT to do on public WiFi:**
+
 - ❌ Banking transactions
 - ❌ Credit card information entry
 - ❌ Accessing work systems
@@ -777,6 +857,7 @@ With your data connection, these apps become invaluable tools.
 ### Navigation & Maps
 
 **Google Maps (Essential):**
+
 - Best navigation app
 - Works well in Sri Lanka
 - Shows tuk-tuk routes
@@ -785,6 +866,7 @@ With your data connection, these apps become invaluable tools.
 - Download offline maps as backup
 
 **Maps.me (Backup):**
+
 - Works offline
 - Good for hiking trails
 - Less detailed than Google
@@ -793,6 +875,7 @@ With your data connection, these apps become invaluable tools.
 ### Transportation
 
 **PickMe (Critical):**
+
 - Sri Lanka's Uber alternative
 - Book tuk-tuks and cars
 - Fixed prices (no negotiation)
@@ -802,6 +885,7 @@ With your data connection, these apps become invaluable tools.
 - **Must download before trip**
 
 **Uber (Colombo only):**
+
 - Available primarily in Colombo
 - Similar to PickMe
 - Less coverage than PickMe
@@ -809,6 +893,7 @@ With your data connection, these apps become invaluable tools.
 ### Communication
 
 **WhatsApp (Most Popular):**
+
 - Everyone in Sri Lanka uses it
 - Hotels communicate via WhatsApp
 - Tour operators use it
@@ -816,21 +901,25 @@ With your data connection, these apps become invaluable tools.
 - Works with data
 
 **Telegram/Viber:**
+
 - Alternative messaging
 - Less common than WhatsApp
 
 ### Booking & Planning
 
 **Booking.com:**
+
 - Hotel reservations
 - Read reviews on-the-go
 - Last-minute bookings
 
 **Airbnb:**
+
 - Guesthouse rentals
 - Unique accommodations
 
 **TripAdvisor:**
+
 - Restaurant reviews
 - Activity recommendations
 - Tourist attractions info
@@ -838,6 +927,7 @@ With your data connection, these apps become invaluable tools.
 ### Translation
 
 **Google Translate:**
+
 - Sinhala ↔ English
 - Tamil ↔ English
 - Camera translation (point at signs)
@@ -847,11 +937,13 @@ With your data connection, these apps become invaluable tools.
 ### Money & Banking
 
 **XE Currency:**
+
 - Live exchange rates
 - LKR conversion
 - Works offline after update
 
 **Your banking apps:**
+
 - Monitor spending
 - Transfer money
 - Check balances
@@ -859,6 +951,7 @@ With your data connection, these apps become invaluable tools.
 ### Weather
 
 **Weather apps:**
+
 - Check forecasts
 - Plan activities
 - Monsoon tracking
@@ -867,6 +960,7 @@ With your data connection, these apps become invaluable tools.
 ### Social Media
 
 **Instagram, Facebook, TikTok:**
+
 - Share your journey
 - Stay connected
 - Find travel inspiration
@@ -881,28 +975,33 @@ With your data connection, these apps become invaluable tools.
 **Possible causes & solutions:**
 
 **1. Phone not unlocked:**
+
 - Check with your home carrier before travel
 - Some phones are locked to specific networks
 - Unlock phone before traveling
 
 **2. Wrong network selection:**
+
 - Go to Settings → Mobile/Cellular
 - Network Selection
 - Choose "Automatic" or manually select provider
 - Should detect Dialog/Mobitel/Airtel
 
 **3. Remote location:**
+
 - You're in area with limited coverage
 - Move to higher ground
 - Check with different spots
 - Switch to 3G mode if 4G unavailable
 
 **4. SIM not properly inserted:**
+
 - Remove and reinsert SIM
 - Ensure correct size adapter used
 - Clean SIM contacts
 
 **5. Airplane mode accidentally on:**
+
 - Check phone settings
 - Turn off airplane mode
 - Wait for signal to connect
@@ -912,27 +1011,32 @@ With your data connection, these apps become invaluable tools.
 **Possible causes & solutions:**
 
 **1. Network congestion:**
+
 - Peak usage times (evening)
 - Many users on same tower
 - Switch to WiFi temporarily
 - Try again later
 
 **2. Weak signal area:**
+
 - Move to better location
 - Go outside building
 - Higher elevation often helps
 
 **3. Data limit reached:**
+
 - Check data balance (#456# for Dialog)
 - Top up if needed
 - Unlimited plans may throttle after threshold
 
 **4. 3G instead of 4G:**
+
 - Phone settings → Mobile Data
 - Ensure 4G/LTE enabled
 - Reset network settings if needed
 
 **5. Background apps consuming data:**
+
 - Close unused apps
 - Disable auto-updates
 - Turn off background data for non-essential apps
@@ -942,22 +1046,26 @@ With your data connection, these apps become invaluable tools.
 **Solutions:**
 
 **1. Check call credit:**
+
 - Some packages are data-only
 - Tourist packages usually include calls
 - Check balance
 
 **2. Incorrect dialing format:**
+
 - Local calls: Direct 10-digit number (0XX XXX XXXX)
 - International: +94 XX XXX XXXX
 - Remove leading zero when calling from abroad
 
 **3. Call barring activated:**
+
 - Contact provider customer service
 - May need to visit store
 
 ### Problem: Can't Receive Texts
 
 **Solutions:**
+
 - SMS center number may be incorrect
 - Contact provider
 - Usually auto-configured
@@ -967,6 +1075,7 @@ With your data connection, these apps become invaluable tools.
 **Solutions:**
 
 **1. APN settings incorrect:**
+
 - Go to Settings → Mobile → Mobile Data Network
 - Enter correct APN
 - Dialog APN: dialogbb
@@ -975,11 +1084,13 @@ With your data connection, these apps become invaluable tools.
 - Save and restart phone
 
 **2. Data roaming not enabled:**
+
 - Settings → Mobile/Cellular
 - Enable "Data Roaming"
 - (Not expensive—you're on local SIM!)
 
 **3. Data toggle off:**
+
 - Pull down notification shade
 - Ensure mobile data icon is highlighted
 - Simple oversight!
@@ -989,22 +1100,26 @@ With your data connection, these apps become invaluable tools.
 **Provider customer service:**
 
 **Dialog:**
+
 - Hotline: 777 (from Dialog number)
 - +94 77 678 7000 (from other)
 - English support available
 - Visit Dialog shop
 
 **Mobitel:**
+
 - Hotline: 071 555 5555
 - English support
 - Visit Mobitel center
 
 **Airtel:**
+
 - Hotline: 0777 123 456
 - Limited English support
 - Visit Airtel shop
 
 **Hotel staff:**
+
 - Ask reception for help
 - They're familiar with tourist SIM issues
 - Can translate if language barrier
@@ -1014,12 +1129,14 @@ With your data connection, these apps become invaluable tools.
 ### Maximize Your Data Value
 
 **Before departure:**
+
 - Download offline maps (Google Maps)
 - Download music playlists (Spotify offline)
 - Pre-download Netflix shows (if traveling)
 - Update apps on home WiFi
 
 **During trip:**
+
 - Use WiFi for large downloads
 - Stream music instead of downloading
 - Lower video quality (720p sufficient)
@@ -1029,35 +1146,42 @@ With your data connection, these apps become invaluable tools.
 **App-specific settings:**
 
 **Facebook/Instagram:**
+
 - Settings → Data Saver Mode → On
 - Disable auto-play videos
 - Lower image quality
 
 **YouTube:**
+
 - Set default quality to 480p or 720p
 - Download videos on WiFi for offline viewing
 
 **WhatsApp:**
+
 - Settings → Data usage → Low data usage
 - Don't auto-download media
 
 **Google Maps:**
+
 - Download offline maps for your route
 - Reduces data usage significantly
 
 ### Monitor Your Usage
 
 **iPhone:**
+
 - Settings → Cellular → View usage by app
 - Reset statistics at start of trip
 - Track daily usage
 
 **Android:**
+
 - Settings → Network & Internet → Data usage
 - Set data warning alerts
 - Monitor per-app usage
 
 **Provider app:**
+
 - Download Dialog/Mobitel app
 - Real-time usage tracking
 - Detailed breakdown
@@ -1065,6 +1189,7 @@ With your data connection, these apps become invaluable tools.
 ### Strategic Data Management
 
 **Use WiFi for:**
+
 - Large app updates
 - Video calls with family (when possible)
 - Uploading full-res photos/videos
@@ -1072,6 +1197,7 @@ With your data connection, these apps become invaluable tools.
 - Large file downloads
 
 **Use mobile data for:**
+
 - Navigation (Google Maps)
 - Ride-hailing apps
 - Quick messages
@@ -1080,6 +1206,7 @@ With your data connection, these apps become invaluable tools.
 - Travel between locations
 
 **Budget your data:**
+
 - 40GB package ÷ 14 days = ~2.8GB per day
 - Check usage each evening
 - Adjust habits if approaching limit
@@ -1089,15 +1216,18 @@ With your data connection, these apps become invaluable tools.
 ### Roaming Costs (Don't Do This!)
 
 **Typical international roaming rates:**
+
 - $10-15 per day for limited data
 - $0.50-2 per minute for calls
 - $0.10-0.50 per text
 - Very expensive for data overages
 
 **2-week trip roaming cost:**
+
 - 14 days × $12/day = **$168**
 
 **What you get:**
+
 - Limited data (often 500MB-1GB per day)
 - Expensive calls
 - Stress about usage
@@ -1106,6 +1236,7 @@ With your data connection, these apps become invaluable tools.
 ### Local SIM Cost
 
 **2-week trip with Dialog:**
+
 - 40GB data package: **$8**
 - Unlimited local calls included
 - WhatsApp calls free (uses data)
@@ -1117,11 +1248,13 @@ With your data connection, these apps become invaluable tools.
 ### The Math is Obvious
 
 **International roaming:**
+
 - Cost: $168 for 2 weeks
 - Data: Limited (7-14GB total)
 - Stress: High (worrying about overages)
 
 **Local SIM:**
+
 - Cost: $8 for 2 weeks
 - Data: 40GB (generous)
 - Stress: Zero (plenty of data)
@@ -1135,6 +1268,7 @@ With your data connection, these apps become invaluable tools.
 ### Staying Safe Online
 
 **General security:**
+
 - ✅ Keep phone locked (PIN/biometric)
 - ✅ Use strong passwords
 - ✅ Enable two-factor authentication
@@ -1142,6 +1276,7 @@ With your data connection, these apps become invaluable tools.
 - ✅ Install antivirus (optional but good)
 
 **On public WiFi:**
+
 - ✅ Use VPN (NordVPN, ExpressVPN)
 - ✅ Avoid banking/financial transactions
 - ✅ Verify network name with staff
@@ -1149,12 +1284,14 @@ With your data connection, these apps become invaluable tools.
 - ✅ Turn off auto-connect to open networks
 
 **On mobile data (safer):**
+
 - ✅ More secure than public WiFi
 - ✅ Encrypted connection
 - ✅ Safe for banking (but still be cautious)
 - ✅ Prefer mobile data for sensitive transactions
 
 **Backup your data:**
+
 - ✅ Enable cloud photo backup (Google Photos, iCloud)
 - ✅ Regular phone backups
 - ✅ Copy important documents
@@ -1163,6 +1300,7 @@ With your data connection, these apps become invaluable tools.
 ### VPN for Sri Lanka
 
 **Do you need a VPN in Sri Lanka?**
+
 - **Not essential** for general use
 - **Recommended** for:
   - Banking transactions
@@ -1171,6 +1309,7 @@ With your data connection, these apps become invaluable tools.
   - Public WiFi use
 
 **Recommended VPNs:**
+
 - NordVPN
 - ExpressVPN
 - Surfshark
@@ -1181,18 +1320,21 @@ With your data connection, these apps become invaluable tools.
 ### Protecting Your Phone
 
 **Physical security:**
+
 - Use hotel safe for valuable documents
 - Keep phone in secure pocket
 - Don't leave unattended
 - Use phone strap in crowded areas
 
 **Digital security:**
+
 - Enable Find My Phone (iPhone) / Find My Device (Android)
-- Note your IMEI number (dial *#06#)
+- Note your IMEI number (dial \*#06#)
 - Keep SIM PIN enabled
 - Backup before travel
 
 **If phone is lost/stolen:**
+
 1. Report to police (for insurance)
 2. Block SIM card (call provider from another phone)
 3. Use Find My Phone to locate/lock/erase
@@ -1256,6 +1398,7 @@ With reliable mobile internet and affordable SIM cards, staying connected throug
 ### Your Connectivity Checklist
 
 **Before departure:**
+
 - [ ] Verify phone is unlocked
 - [ ] Download PickMe app
 - [ ] Download offline Google Maps (backup)
@@ -1263,6 +1406,7 @@ With reliable mobile internet and affordable SIM cards, staying connected throug
 - [ ] Bring physical SIM removal tool
 
 **At airport arrival:**
+
 - [ ] Get SIM card FIRST (before anything else)
 - [ ] Choose Dialog (or Mobitel)
 - [ ] Buy 40GB package for 2-week trip
@@ -1271,6 +1415,7 @@ With reliable mobile internet and affordable SIM cards, staying connected throug
 - [ ] Save your new number
 
 **During your trip:**
+
 - [ ] Monitor data usage
 - [ ] Use WiFi for large downloads
 - [ ] Download offline content when needed
@@ -1322,6 +1467,6 @@ You're prepared. You're connected. You're ready to explore Sri Lanka without lim
 
 ---
 
-*Last updated: January 9, 2026. Prices and packages subject to change. Always verify current offers at provider counters.*
+_Last updated: January 9, 2026. Prices and packages subject to change. Always verify current offers at provider counters._
 
 **Questions about staying connected in Sri Lanka? Drop them in the comments!** 💬
