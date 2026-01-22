@@ -1368,6 +1368,6 @@ Galle Fort is waiting. Ancient ramparts ready for your sunset walks. Boutique ho
 
 ---
 
-_Last updated: January 23, 2026. Rankings based on Tripadvisor Travelers' Choice Awards Best of the Best 2026. Prices and availability subject to change._
+_Last updated: January 22, 2026. Rankings based on Tripadvisor Travelers' Choice Awards Best of the Best 2026. Prices and availability subject to change._
 
 **Planning your Galle honeymoon? Have questions about romantic experiences or hotel choices? Share in the comments—we're here to help make your honeymoon perfect!** 💬💍
