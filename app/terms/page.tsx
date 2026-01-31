@@ -344,12 +344,12 @@ export default function TermsPage() {
           <h2>Contact Information</h2>
           <p>If you have any questions about these Terms, please contact us:</p>
           <ul>
-            <li>
+            {/* <li>
               <strong>Email:</strong>{" "}
               <a href="mailto:ravinduwjerathne@gmail.com">
                 ravinduwjerathne@gmail.com
               </a>
-            </li>
+            </li> */}
             <li>
               <strong>Website:</strong>{" "}
               <a href="https://srilankatravelhub.com">srilankatravelhub.com</a>

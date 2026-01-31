@@ -221,12 +221,12 @@ export default function PrivacyPolicyPage() {
               subscriptions at any time
             </li>
           </ul>
-          <p>
+          {/* <p>
             To exercise any of these rights, please contact us at{" "}
             <a href="mailto:ravinduwjerathne@gmail.com">
               ravinduwjerathne@gmail.com
             </a>
-          </p>
+          </p> */}
 
           <h2>Newsletter Subscriptions</h2>
           <p>
@@ -239,12 +239,12 @@ export default function PrivacyPolicyPage() {
               Clicking the "unsubscribe" link at the bottom of any newsletter
               email
             </li>
-            <li>
+            {/* <li>
               Contacting us directly at{" "}
               <a href="mailto:ravinduwjerathne@gmail.com">
                 ravinduwjerathne@gmail.com
               </a>
-            </li>
+            </li> */}
           </ul>
 
           <h2>Children's Privacy</h2>
@@ -290,12 +290,12 @@ export default function PrivacyPolicyPage() {
             privacy policy or our data practices, please contact us:
           </p>
           <ul>
-            <li>
+            {/* <li>
               <strong>Email:</strong>{" "}
               <a href="mailto:ravinduwjerathne@gmail.com">
                 ravinduwjerathne@gmail.com
               </a>
-            </li>
+            </li> */}
             <li>
               <strong>Website:</strong>{" "}
               <a href="https://srilankatravelhub.com">srilankatravelhub.com</a>

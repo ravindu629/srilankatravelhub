@@ -116,7 +116,7 @@ export default function Footer() {
                 </li>
               ))}
             </ul>
-            <div className="pt-4 border-t border-neutral-800">
+            {/* <div className="pt-4 border-t border-neutral-800">
               <h5 className="font-semibold mb-2">Contact Us</h5>
               <a
                 href="mailto:ravinduwjerathne@gmail.com"
@@ -124,7 +124,7 @@ export default function Footer() {
               >
                 ravinduwjerathne@gmail.com
               </a>
-            </div>
+            </div> */}
           </div>
         </div>
 
